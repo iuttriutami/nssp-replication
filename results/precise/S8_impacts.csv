@@ -1,0 +1,1291 @@
+spec,variable,effect,estimate,lwr95,upr95,W,FE,model,sample
+SDM | Queen contiguity | ind | 2020-2024,manuf,direct,0.01862721325433475,-0.005757164223161682,0.04348681504315113,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,manuf,indirect,0.030866768933307434,-0.012170226222271534,0.06931690898261948,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,manuf,total,0.049493982187642185,0.007879426750962747,0.0871286752720039,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,direct,-6.010548703096051,-8.925434525998845,-3.0631288775107124,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,indirect,-1.960102745476597,-5.867701514125908,1.9395104375606405,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,total,-7.970651448572648,-11.033222189025075,-4.912493179287967,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,direct,-0.026545862790158973,-0.09171800749044538,0.04086350624157254,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,indirect,-0.28186626562372824,-0.5094971783547354,-0.08075163412083214,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,total,-0.3084121284138872,-0.5755462482005498,-0.0784420642121519,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,direct,-0.03477980960562547,-0.05338754647687783,-0.015747784948536604,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,indirect,-0.07935980361886508,-0.1373276372822548,-0.028769734511137603,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,total,-0.11413961322449055,-0.18178285339312278,-0.05479802438430115,queen,ind,SDM,full
+SAR | Queen contiguity | ind | 2020-2024,manuf,direct,0.02652455313430163,0.006126795396496982,0.04604729781665271,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,manuf,indirect,0.022381177416627998,0.0053015767836641125,0.044540364958221196,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,manuf,total,0.04890573055092963,0.011807749578268599,0.0866029393269512,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,lgrdp,direct,-3.8563209849778883,-5.234747040002223,-2.44050067710264,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,lgrdp,indirect,-3.2539286789582405,-4.719932393343379,-2.107191307777882,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,lgrdp,total,-7.110249663936129,-9.206476311004888,-4.989465634245473,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,tpt,direct,-0.04380434487155241,-0.10889393445845455,0.022750346332085572,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,tpt,indirect,-0.036961708995637194,-0.10283692640076518,0.021790958668724523,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,tpt,total,-0.0807660538671896,-0.20720674887908713,0.04613584363836124,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,sanit,direct,-0.03258661621132779,-0.05227557371186172,-0.013486979136781667,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,sanit,indirect,-0.027496291271732157,-0.055028038164385805,-0.010130378441269206,queen,ind,SAR,full
+SAR | Queen contiguity | ind | 2020-2024,sanit,total,-0.060082907483059944,-0.10303619845100843,-0.024414279211311715,queen,ind,SAR,full
+SLX | Queen contiguity | ind | 2020-2024,manuf,direct,0.01701173897955891,-0.01089712754824758,0.04442058825402736,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,manuf,indirect,0.03988594903478848,0.005756869199620813,0.07511724163047954,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,manuf,total,0.05689768801434739,0.033037147228133605,0.0808240482238374,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,lgrdp,direct,-6.05765419924507,-9.514434745099077,-2.6773190557835225,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,lgrdp,indirect,-2.0184410541657467,-5.732431081337288,1.7590492848801575,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,lgrdp,total,-8.076095253410816,-9.937675644850728,-6.223152246152872,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,tpt,direct,-0.012425442887114446,-0.07944144943101407,0.055001529595730354,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,tpt,indirect,-0.23626551312439648,-0.3778187023900616,-0.09826266849782288,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,tpt,total,-0.24869095601151092,-0.3955078534659662,-0.10415652078720646,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,sanit,direct,-0.03418538197572518,-0.05405482611946867,-0.014920657929223657,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,sanit,indirect,-0.057475767714869175,-0.09147649688284508,-0.024460279088146165,queen,ind,SLX,full
+SLX | Queen contiguity | ind | 2020-2024,sanit,total,-0.09166114969059436,-0.13068519815762755,-0.05455718349205536,queen,ind,SLX,full
+SEM | Queen contiguity | ind | 2020-2024,manuf,direct,0.021415684216589497,-0.003767005328869927,0.04580736398880463,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,manuf,indirect,0.0,0.0,0.0,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,manuf,total,0.021415684216589497,-0.003767005328869927,0.04580736398880463,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,lgrdp,direct,-6.204646636855386,-7.773012553984743,-4.6580525878882515,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,lgrdp,total,-6.204646636855386,-7.773012553984743,-4.6580525878882515,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,tpt,direct,-0.018451267684152617,-0.08259808045575094,0.04579266018908802,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,tpt,indirect,0.0,0.0,0.0,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,tpt,total,-0.018451267684152617,-0.08259808045575094,0.04579266018908802,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,sanit,direct,-0.02216669821315609,-0.04085500790116159,-0.003783577306072214,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,sanit,indirect,0.0,0.0,0.0,queen,ind,SEM,full
+SEM | Queen contiguity | ind | 2020-2024,sanit,total,-0.02216669821315609,-0.04085500790116159,-0.003783577306072214,queen,ind,SEM,full
+SDEM | Queen contiguity | ind | 2020-2024,manuf,direct,0.02181755261924931,-0.0012311724767450698,0.04490702081919001,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,manuf,indirect,0.02590874259720799,-0.011585021173318751,0.06311281632280064,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,manuf,total,0.0477262952164573,0.011506096983102088,0.08634458907754167,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,lgrdp,direct,-6.235574254237142,-8.957289966035432,-3.587579100987334,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,lgrdp,indirect,-1.3141229660519942,-4.64703112527269,1.9307341442071349,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,lgrdp,total,-7.549697220289136,-9.9387622909128,-5.211229933544785,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,tpt,direct,-0.02169198759429891,-0.08354656591971633,0.0411445323191396,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,tpt,indirect,-0.2038598270114973,-0.35146327684328227,-0.06272936905800304,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,tpt,total,-0.2255518146057962,-0.4023280855982262,-0.05804307831062103,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,sanit,direct,-0.03404128039841714,-0.05219904860866888,-0.015810890744174706,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,sanit,indirect,-0.06057167456707635,-0.09480128770410028,-0.025079985192854034,queen,ind,SDEM,full
+SDEM | Queen contiguity | ind | 2020-2024,sanit,total,-0.09461295496549349,-0.13957483969759096,-0.049958632196899805,queen,ind,SDEM,full
+SDM | Queen contiguity | ind | 2022-2024,manuf,direct,0.003174200674608707,-0.03565942766550354,0.04057950194795471,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,manuf,indirect,-0.016306953761920283,-0.08226873897869882,0.04201841746405323,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,manuf,total,-0.013132753087311577,-0.07695777925117422,0.04041517895902596,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,lgrdp,direct,-4.429164261872231,-9.823912397585675,1.0314066719233592,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,lgrdp,indirect,2.0028410255457403,-3.6660961327757167,7.704253734960491,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,lgrdp,total,-2.4263232363264904,-4.228731092968678,-0.5128112132639502,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,tpt,direct,-0.0019722468203188038,-0.08904340080269008,0.08026216279834575,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,tpt,indirect,0.016421445869292818,-0.138844235443058,0.1807074445220388,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,tpt,total,0.014449199048974015,-0.1359618387202754,0.1747067547264152,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,sanit,direct,-0.016169153054697568,-0.03582023660231067,0.004288207818309538,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,sanit,indirect,-0.07956161070518582,-0.11976874988165553,-0.042750613884316495,queen,ind,SDM,2022-2024
+SDM | Queen contiguity | ind | 2022-2024,sanit,total,-0.09573076375988339,-0.1391656140598145,-0.05673231446084824,queen,ind,SDM,2022-2024
+SDM+HDI | Queen contiguity | ind,manuf,direct,0.01749201101079047,-0.006719566131211113,0.04192445651243254,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,manuf,indirect,0.029387017491483144,-0.013376047616945688,0.06742087876575964,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,manuf,total,0.046879028502273615,0.007432301304836984,0.08347708944255014,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,lgrdp,direct,-5.488738905543239,-8.73864366578927,-2.364599478476735,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,lgrdp,indirect,0.7453687405767964,-6.458007993201254,7.715235369827004,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,lgrdp,total,-4.743370164966443,-12.739669661696546,3.164786211405293,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,tpt,direct,-0.027285646604803024,-0.09480420712727268,0.03903188396006815,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,tpt,indirect,-0.2923175866998604,-0.5054831365627871,-0.09701430961072287,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,tpt,total,-0.31960323330466345,-0.5652927626630816,-0.09781170850115269,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,sanit,direct,-0.03194569615865672,-0.051672117444682,-0.012308565296003233,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,sanit,indirect,-0.06494091174548444,-0.1280844289172844,-0.009526614957697885,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,sanit,total,-0.09688660790414116,-0.17146509370844276,-0.03103190035317941,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,hdi,direct,0.023567992862133746,-0.23477189379258492,0.28359004604286053,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,hdi,indirect,-0.3270581001042633,-0.9345090395088675,0.2875824087592654,queen,ind,SDM,full+HDI
+SDM+HDI | Queen contiguity | ind,hdi,total,-0.30349010724212955,-0.9820386610124665,0.3741728178819297,queen,ind,SDM,full+HDI
+SDM | Queen contiguity | tw | 2020-2024,manuf,direct,0.004891937466079981,-0.02055895683361523,0.030126225518138924,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,manuf,indirect,-0.015014755880506296,-0.07380563162119924,0.03994954432801599,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,manuf,total,-0.010122818414426315,-0.07693759232924591,0.05139727298374859,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,direct,-5.12725305352365,-8.269473311535801,-1.9754432972959526,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,indirect,1.8613780026380873,-3.8159180661090697,7.583720305434682,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,total,-3.2658750508855627,-9.728025432506094,3.514078023046465,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,direct,-0.020041983135302907,-0.07579363061789963,0.034387949969927334,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,indirect,-0.11506136525120823,-0.22365889354137547,-0.01017457059377361,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,total,-0.13510334838651114,-0.24464452520664945,-0.0280960955828141,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,direct,-0.032507950399280304,-0.04806731544184745,-0.01705450915256186,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,indirect,-0.059741320560167156,-0.08686116856377926,-0.034322542030471456,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,total,-0.09224927095944746,-0.12331709620394679,-0.06397321696062314,queen,tw,SDM,full
+SAR | Queen contiguity | tw | 2020-2024,manuf,direct,0.0019935796378549807,-0.02681597498916304,0.029537757842088178,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,manuf,indirect,0.0002818971524773681,-0.005752875352856326,0.007586561105809208,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,manuf,total,0.002275476790332349,-0.030898667802388497,0.03530024040908067,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,lgrdp,direct,-3.781659340129096,-7.151320789525636,-0.35756497954376215,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,lgrdp,indirect,-0.5347360995163735,-2.5664289988889886,0.28736231702393145,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,lgrdp,total,-4.316395439645469,-8.990769251816257,-0.39568375583361365,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,tpt,direct,-0.048455446213462185,-0.10824132405859856,0.01269094696293462,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,tpt,indirect,-0.006851721421218135,-0.029035055262831306,0.006489824032228984,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,tpt,total,-0.05530716763468032,-0.12488011633839237,0.015299664220933214,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,sanit,direct,-0.036809963149258204,-0.05477556953007972,-0.01953969866247848,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,sanit,indirect,-0.005205020957044705,-0.018620736293828544,0.0032553043472255167,queen,tw,SAR,full
+SAR | Queen contiguity | tw | 2020-2024,sanit,total,-0.04201498410630291,-0.06628067018931533,-0.022079949482979533,queen,tw,SAR,full
+SLX | Queen contiguity | tw | 2020-2024,manuf,direct,0.004678468401803965,-0.020674769892213802,0.029940607152230413,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,manuf,indirect,-0.021680111875415964,-0.08390006818906338,0.04049175604205779,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,manuf,total,-0.017001643473612,-0.08764488257284749,0.053795694873661586,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,lgrdp,direct,-5.161434329449599,-8.26840823784364,-1.8736435602602095,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,lgrdp,indirect,1.77381585855235,-4.547215045454701,8.035822955478555,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,lgrdp,total,-3.387618470897249,-10.812885434229987,3.7673103768074054,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,tpt,direct,-0.019976069608649727,-0.0735550093361683,0.035039833604484386,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,tpt,indirect,-0.12294286768866478,-0.23862775212602094,-0.010877916733768256,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,tpt,total,-0.1429189372973145,-0.2615579772995104,-0.02329653956899086,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,sanit,direct,-0.03292950345221968,-0.04941565389929355,-0.017802969000134294,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,sanit,indirect,-0.06317464385140381,-0.09097233627011596,-0.035602181117021,queen,tw,SLX,full
+SLX | Queen contiguity | tw | 2020-2024,sanit,total,-0.09610414730362349,-0.12823610056506676,-0.06455526255131795,queen,tw,SLX,full
+SEM | Queen contiguity | tw | 2020-2024,manuf,direct,0.00023826446534891345,-0.027882181866152232,0.02784129415885438,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,manuf,indirect,0.0,0.0,0.0,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,manuf,total,0.00023826446534891345,-0.027882181866152232,0.02784129415885438,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,lgrdp,direct,-3.3965842005397726,-6.749819874349188,0.019602280468097782,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,lgrdp,total,-3.3965842005397726,-6.749819874349188,0.019602280468097782,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,tpt,direct,-0.05999040131323796,-0.12128477531039351,0.0027546008712855223,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,tpt,indirect,0.0,0.0,0.0,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,tpt,total,-0.05999040131323796,-0.12128477531039351,0.0027546008712855223,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,sanit,direct,-0.04036700492431322,-0.05967005679738899,-0.02069694670358464,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,sanit,indirect,0.0,0.0,0.0,queen,tw,SEM,full
+SEM | Queen contiguity | tw | 2020-2024,sanit,total,-0.04036700492431322,-0.05967005679738899,-0.02069694670358464,queen,tw,SEM,full
+SDEM | Queen contiguity | tw | 2020-2024,manuf,direct,0.004900054774604044,-0.019580331715703222,0.030028678163195276,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,manuf,indirect,-0.013094662321425865,-0.07416907898602143,0.045287995364989085,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,manuf,total,-0.00819460754682182,-0.07642343219284808,0.05528976422836324,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,lgrdp,direct,-5.122382482574775,-8.174749154613165,-1.9731372156188651,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,lgrdp,indirect,1.7419827129436052,-4.092773147930984,7.660244147862975,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,lgrdp,total,-3.3803997696311696,-9.748764648915099,3.2004683703680463,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,tpt,direct,-0.020855222892241176,-0.07669437940887514,0.032670997341098316,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,tpt,indirect,-0.11942166895557993,-0.2270217791626157,-0.010685676437818575,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,tpt,total,-0.1402768918478211,-0.24904150033994557,-0.03167174476756683,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,sanit,direct,-0.032887971794316684,-0.04905712250844019,-0.017048147155315486,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,sanit,indirect,-0.06387035508194039,-0.09072139000556367,-0.03701477129111544,queen,tw,SDEM,full
+SDEM | Queen contiguity | tw | 2020-2024,sanit,total,-0.09675832687625707,-0.12617466212243514,-0.06781767288667677,queen,tw,SDEM,full
+SDM | Queen contiguity | tw | 2022-2024,manuf,direct,-0.001622321209857934,-0.040347970948555,0.03860739261083158,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,manuf,indirect,-0.03499833708682204,-0.11284591169109366,0.034737435673754834,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,manuf,total,-0.03662065829667997,-0.11867426584353334,0.03446849814647943,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,lgrdp,direct,-4.219115855837463,-10.396597332598686,1.8155221215266075,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,lgrdp,indirect,2.8991330364106975,-7.54322166330487,13.93115012535195,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,lgrdp,total,-1.3199828194267649,-13.617893161510832,11.110067096464128,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,tpt,direct,0.00644868070223873,-0.08233270427657643,0.09512163955037072,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,tpt,indirect,0.025339932994002806,-0.13934038951280042,0.19368068531939517,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,tpt,total,0.03178861369624154,-0.12811880104701995,0.1968793752406663,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,sanit,direct,-0.016742834412285593,-0.03632529699850575,0.003429569803260447,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,sanit,indirect,-0.07745236681457875,-0.12052762287794026,-0.03872517487352074,queen,tw,SDM,2022-2024
+SDM | Queen contiguity | tw | 2022-2024,sanit,total,-0.09419520122686434,-0.14287934054178028,-0.05268177085818632,queen,tw,SDM,2022-2024
+SDM+HDI | Queen contiguity | tw,manuf,direct,0.0018776426158178658,-0.022848595402552952,0.02657804181921181,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,manuf,indirect,-0.01922859424195037,-0.07782455915503232,0.03684625449585874,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,manuf,total,-0.017350951626132507,-0.08106531409556982,0.04401451621574174,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,lgrdp,direct,-4.9159827247286705,-8.127855683935795,-1.7270767910750533,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,lgrdp,indirect,2.8598701268239513,-2.916950726435012,8.531937483467217,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,lgrdp,total,-2.0561125979047192,-8.560153757124606,4.5834135710048445,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,tpt,direct,-0.012667925174100541,-0.06644259229764132,0.04262071093979373,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,tpt,indirect,-0.11418203745300487,-0.22115196545313043,-0.008833032580089738,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,tpt,total,-0.1268499626271054,-0.2347199369901353,-0.02166673319328626,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,sanit,direct,-0.03366518585891412,-0.04925338248491101,-0.018446343953162407,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,sanit,indirect,-0.0636270773207501,-0.09406160517594389,-0.036299684447723954,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,sanit,total,-0.09729226317966422,-0.13139745789806537,-0.06698880455730855,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,hdi,direct,0.17024064257622482,-0.07611119041695923,0.415095399508962,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,hdi,indirect,0.06682674831576887,-0.3568319877297523,0.5205790220517307,queen,tw,SDM,full+HDI
+SDM+HDI | Queen contiguity | tw,hdi,total,0.2370673908919937,-0.22749567376103288,0.7330302806997193,queen,tw,SDM,full+HDI
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,direct,0.0069964350758898375,-0.01717037600263669,0.030236962014406395,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,indirect,0.04960495432299666,0.0038969274488101988,0.09661045025960333,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,total,0.056601389398886495,0.01028368618085025,0.1014100453209087,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,direct,-6.327154944983298,-9.225482235426144,-3.429208319293283,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,indirect,-0.7651453428929456,-5.209632948474428,3.6559267828794195,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,total,-7.092300287876244,-10.985011126321961,-3.047170277957422,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,direct,-0.032791197448463726,-0.10161383967119021,0.03396992103219824,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,indirect,-0.13333906310312207,-0.3931169708825372,0.1162233250372609,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,total,-0.1661302605515858,-0.4634729788511643,0.11966391570512963,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,direct,-0.03322004125487725,-0.05243793439159858,-0.014684242332654853,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,indirect,-0.07563385748243652,-0.14312372124071013,-0.0165425953620009,knn4,ind,SDM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,total,-0.10885389873731377,-0.1883322182166771,-0.04157007936842967,knn4,ind,SDM,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,direct,0.023147640233917164,0.00391122408337077,0.04253849379709826,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,indirect,0.0236834545297346,0.004224609020078293,0.04924580336825226,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,total,0.046831094763651764,0.008336855511012155,0.0883389596713473,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,direct,-3.5431002859059415,-4.8288771686284555,-2.162914969741646,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,indirect,-3.6251148569602103,-5.222639227734778,-2.385792057147087,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,total,-7.168215142866152,-9.41092947797741,-4.903436722290108,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,direct,-0.05063674698160581,-0.11510865960970594,0.014520759461959265,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,indirect,-0.05180887047463817,-0.1332964981759889,0.015337638174395719,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,total,-0.10244561745624398,-0.2418774068405045,0.02955333950002125,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,direct,-0.02882410117745227,-0.04791421559148761,-0.009504641759969285,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,indirect,-0.029491312405849426,-0.059332658691028405,-0.00939668945396351,knn4,ind,SAR,full
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,total,-0.058315413583301695,-0.10259741597043044,-0.019060169457686123,knn4,ind,SAR,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,direct,0.00574188514956408,-0.023622142221669588,0.03425377867723158,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,indirect,0.05281144627405521,0.01748698385111996,0.08883951951276504,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,total,0.058553331423619286,0.032752755264811695,0.08362245784130981,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,direct,-6.66278069054085,-10.205057349514222,-3.1715592841448697,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,indirect,-0.5325513002595006,-4.3855327768356105,3.4872123203920973,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,total,-7.195331990800351,-9.331861844018585,-5.043032062168974,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,direct,-0.032719577825713886,-0.10222917806936635,0.035173646488263564,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,indirect,-0.10189440978478137,-0.24856144485003095,0.04659324664962637,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,total,-0.13461398761049526,-0.2925640092432227,0.026396924591037412,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,direct,-0.03634046195257912,-0.05622633954300769,-0.016679693075183463,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,indirect,-0.06066463436704406,-0.0984408090206513,-0.021869661921799618,knn4,ind,SLX,full
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,total,-0.09700509631962317,-0.1378741184501493,-0.056521649842781865,knn4,ind,SLX,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,direct,0.011640405191854653,-0.013758816794905126,0.03593847043046366,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,indirect,0.0,0.0,0.0,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,total,0.011640405191854653,-0.013758816794905126,0.03593847043046366,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,direct,-5.908682942791592,-7.478872485917352,-4.262005467427853,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,total,-5.908682942791592,-7.478872485917352,-4.262005467427853,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,direct,-0.0271249511192293,-0.08674050593227724,0.031646692205369906,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,indirect,0.0,0.0,0.0,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,total,-0.0271249511192293,-0.08674050593227724,0.031646692205369906,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,direct,-0.020569640260436728,-0.03822916172089002,-0.0031006792135093676,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,indirect,0.0,0.0,0.0,knn4,ind,SEM,full
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,total,-0.020569640260436728,-0.03822916172089002,-0.0031006792135093676,knn4,ind,SEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,direct,0.008964008313010446,-0.01436327090856549,0.033126177222223704,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,indirect,0.0473097687845625,0.008530211641153201,0.08732204796905485,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,manuf,total,0.05627377709757295,0.015757386491370682,0.09763093359230224,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,direct,-6.782796183291834,-9.393485190873289,-4.076825555924213,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,indirect,-0.8031842998052365,-4.176659762941119,2.3350815796755087,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,lgrdp,total,-7.585980483097071,-10.296055320004871,-4.997986066744097,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,direct,-0.039400763618559154,-0.10108823810291262,0.022306806322562,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,indirect,-0.12704931547189124,-0.27549414833612773,0.01727563168718568,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,tpt,total,-0.1664500790904504,-0.34844485992628876,0.010505647657292724,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,direct,-0.03195688534670288,-0.05024124583097477,-0.013655771854701123,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,indirect,-0.04460729729976487,-0.08371945571690152,-0.005933617093962017,knn4,ind,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,sanit,total,-0.07656418264646775,-0.12672403717039746,-0.02689990031710618,knn4,ind,SDEM,full
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,manuf,direct,-0.002897113722901578,-0.039594332203250364,0.034530712361667396,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,manuf,indirect,-0.037702491255558926,-0.11374451835266478,0.03743402875663418,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,manuf,total,-0.040599604978460505,-0.11727410128496701,0.03410593293829532,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,lgrdp,direct,-4.76106600236553,-9.980059446778505,0.6819524708799228,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,lgrdp,indirect,2.073241804784572,-3.5099966050160427,7.612312181806303,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,lgrdp,total,-2.6878241975809574,-4.865680631489044,-0.34841836406773785,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,tpt,direct,0.01822490626259527,-0.07227264292776939,0.10422574925080803,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,tpt,indirect,0.010566004755106648,-0.1731789655372057,0.19258609567165738,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,tpt,total,0.02879091101770192,-0.16597283704446136,0.21780723853643297,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,sanit,direct,-0.017160181066820965,-0.037054053927146426,0.0027462230983280067,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,sanit,indirect,-0.06344594020285126,-0.10250517385110422,-0.02612135557490851,knn4,ind,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,sanit,total,-0.08060612126967222,-0.12546787673272713,-0.03789794186852347,knn4,ind,SDM,2022-2024
+SDM+HDI | 4-nearest neighbours (great circle) | ind,manuf,direct,0.004679850007520032,-0.019595382658491076,0.02904009372735667,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,manuf,indirect,0.04916249084277243,0.002974136683071406,0.09525642266076184,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,manuf,total,0.053842340850292464,0.007903326179632117,0.09855357053349015,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,lgrdp,direct,-5.636582254332488,-8.961608927843827,-2.3296335567964146,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,lgrdp,indirect,3.042521350723802,-6.121231775362973,13.10869376045191,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,lgrdp,total,-2.5940609036086864,-13.384578310810925,8.69331581924147,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,tpt,direct,-0.03068203472456848,-0.09910651802518634,0.03495053592540549,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,tpt,indirect,-0.1328014571340102,-0.3809670029693547,0.11796042066463029,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,tpt,total,-0.1634834918585787,-0.4572318435321759,0.12372662200215542,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,sanit,direct,-0.030228307837782492,-0.050362817716786294,-0.009411004612614926,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,sanit,indirect,-0.06447299973591769,-0.14265441074847748,0.007533861595286456,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,sanit,total,-0.09470130757370018,-0.18524301568429494,-0.01024488526699981,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,hdi,direct,0.03581274180205378,-0.2336134522275999,0.304192365949237,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,hdi,indirect,-0.4204161001664227,-1.2645961166418482,0.4004029354060365,knn4,ind,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | ind,hdi,total,-0.38460335836436893,-1.2934727141985671,0.4987440996782112,knn4,ind,SDM,full+HDI
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,direct,0.005318111126581734,-0.021588417621680792,0.032195009027907076,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,indirect,0.0332096309260674,-0.032701913292065295,0.1025345461148215,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,total,0.03852774205264913,-0.03835161525050921,0.11871023291618284,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,direct,-5.126051575410763,-8.509226822346562,-1.764052019662016,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,indirect,4.994746926486739,-2.257871361299814,12.57772452984673,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,total,-0.13130464892402371,-8.961585277148744,9.090007085616122,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,direct,-0.03910364283758789,-0.09379861483103541,0.014747248524962365,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,indirect,-0.09812271413155843,-0.2234497945100301,0.020521840360471357,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,total,-0.1372263569691463,-0.2779988065985821,-0.005449075546290161,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,direct,-0.03173558040151895,-0.04799766808125459,-0.01560024705509523,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,indirect,-0.05355136759172543,-0.09086181386436597,-0.01621918505962916,knn4,tw,SDM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,total,-0.08528694799324438,-0.12793199989957876,-0.041976110100533884,knn4,tw,SDM,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,direct,0.0009810312037314079,-0.026506711821458126,0.028665688178750738,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,indirect,0.0003258562324309649,-0.011485380431320325,0.012360168088051392,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,total,0.0013068874361623728,-0.0364227808478277,0.03915600028251985,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,direct,-4.086626676985776,-7.556217785787935,-0.6994783831354991,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,indirect,-1.3574010360215265,-4.517909696432505,-0.060032958669443505,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,total,-5.444027713007302,-11.512926838490145,-0.8832183644881024,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,direct,-0.045328586181663064,-0.10750943963569158,0.015897837848412675,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,indirect,-0.015056200310854737,-0.04716542010127962,0.006542870175525141,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,total,-0.0603847864925178,-0.14311183267474684,0.022588161194321804,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,direct,-0.03443527002766174,-0.05186913602181647,-0.016963554461906432,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,indirect,-0.011437910752764319,-0.027920330636422665,-0.0018768557643215945,knn4,tw,SAR,full
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,total,-0.04587318078042606,-0.07416523493226787,-0.022849594463004948,knn4,tw,SAR,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,direct,0.005121256103895237,-0.02072720305507994,0.031116773595384388,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,indirect,0.03278830363956564,-0.031853616882396414,0.09893966196479989,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,total,0.03790955974346088,-0.035279982995666544,0.11064713411687598,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,direct,-5.176215059864271,-8.436963627705122,-1.858972747686381,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,indirect,4.863453032960241,-1.942139906172156,11.593031632509488,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,total,-0.3127620269040303,-8.460662369419937,7.970071945572405,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,direct,-0.039196988056072524,-0.09367009856363286,0.014315807761829117,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,indirect,-0.09670408746402226,-0.2105948742470277,0.0222668656086401,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,total,-0.13590107552009478,-0.2620990045233809,-0.003303807329397824,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,direct,-0.03193810191385715,-0.048513392044694036,-0.015509965392971262,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,indirect,-0.05353551679555146,-0.08878446542494353,-0.019040533073327145,knn4,tw,SLX,full
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,total,-0.08547361870940862,-0.1252769544330421,-0.045381162116025386,knn4,tw,SLX,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,direct,-0.0002863061316964096,-0.027661032535725997,0.02724357323678032,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,indirect,0.0,0.0,0.0,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,total,-0.0002863061316964096,-0.027661032535725997,0.02724357323678032,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,direct,-4.1873352423560375,-7.655998709236679,-0.7671632487439252,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,total,-4.1873352423560375,-7.655998709236679,-0.7671632487439252,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,direct,-0.040084209759347456,-0.1014201906710105,0.021686913574825956,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,indirect,0.0,0.0,0.0,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,total,-0.040084209759347456,-0.1014201906710105,0.021686913574825956,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,direct,-0.030374552270360677,-0.048780368070530926,-0.011929869172189944,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,indirect,0.0,0.0,0.0,knn4,tw,SEM,full
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,total,-0.030374552270360677,-0.048780368070530926,-0.011929869172189944,knn4,tw,SEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,direct,0.00520753735132792,-0.020372077648168056,0.03031670571467386,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,indirect,0.032973643579875755,-0.03098364110963509,0.09596472337210994,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,manuf,total,0.03818118093120368,-0.03465329829896413,0.11124546111194229,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,direct,-5.145377050637668,-8.608352803895935,-1.5898769448765746,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,indirect,4.944143892463621,-2.1064679855967587,12.077243811674068,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,lgrdp,total,-0.2012331581740474,-8.86805037625943,8.421281301330568,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,direct,-0.039263046285125114,-0.0925463897102401,0.01360213326638104,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,indirect,-0.09729449207966728,-0.21406209685966285,0.018575223226488094,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,tpt,total,-0.1365575383647924,-0.26255413801682403,-0.009358322877399954,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,direct,-0.03182529124280986,-0.04809917460649177,-0.015293975184047178,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,indirect,-0.05296290959732797,-0.09082374731891837,-0.01536070598746711,knn4,tw,SDEM,full
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,sanit,total,-0.08478820084013783,-0.12786391191146465,-0.04191851048661159,knn4,tw,SDEM,full
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,manuf,direct,-0.01240995127131719,-0.050306670608806545,0.026404738355226907,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,manuf,indirect,-0.09071266988364945,-0.18868467494630145,0.0003261074176027141,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,manuf,total,-0.10312262115496665,-0.21082708848496026,-0.0038547817667464405,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,lgrdp,direct,-4.753553856951804,-11.046236380446514,1.472383407350532,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,lgrdp,indirect,3.163403446469643,-10.109128824706492,17.13938224710559,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,lgrdp,total,-1.5901504104821609,-17.019342540141515,14.821036981614947,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,tpt,direct,0.032330813483147855,-0.053606512790088705,0.11795181995389471,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,tpt,indirect,0.02935267075084133,-0.14456326237304823,0.20735825893433574,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,tpt,total,0.061683484233989186,-0.12686270277080375,0.24402017834184406,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,sanit,direct,-0.01809530086620278,-0.038562750891606955,0.0018881182588349373,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,sanit,indirect,-0.06145558154909653,-0.10809390001760867,-0.017631071793361756,knn4,tw,SDM,2022-2024
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,sanit,total,-0.07955088241529931,-0.13128913100234108,-0.029870004644561264,knn4,tw,SDM,2022-2024
+SDM+HDI | 4-nearest neighbours (great circle) | tw,manuf,direct,0.004151018550719224,-0.022326443900892043,0.030478129491436617,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,manuf,indirect,0.03389506793882382,-0.03368820059136452,0.10342845951761792,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,manuf,total,0.038046086489543045,-0.036504897166955215,0.11659174455999727,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,lgrdp,direct,-4.805109968480545,-8.330018102198062,-1.3558987572051031,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,lgrdp,indirect,6.216073212145654,-0.9760563185215937,14.22259975382796,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,lgrdp,total,1.4109632436651078,-7.535444621474636,11.00891626466192,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,tpt,direct,-0.034485598966064256,-0.08905062696393362,0.022390523615725837,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,tpt,indirect,-0.09295247648187299,-0.21667699265331988,0.028828565442523536,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,tpt,total,-0.12743807544793725,-0.2620332747929456,0.006490082222621156,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,sanit,direct,-0.033059672053726966,-0.04991485515503342,-0.016384162551580046,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,sanit,indirect,-0.05503001384834494,-0.09228257192441838,-0.017667649154843004,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,sanit,total,-0.0880896859020719,-0.13046737519611265,-0.04519971760497183,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,hdi,direct,0.13189208577866973,-0.11666168037263082,0.3817914138553613,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,hdi,indirect,0.18134402934249538,-0.437395380905918,0.8436336917374407,knn4,tw,SDM,full+HDI
+SDM+HDI | 4-nearest neighbours (great circle) | tw,hdi,total,0.3132361151211651,-0.3362927894539168,1.0280231929688248,knn4,tw,SDM,full+HDI
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,direct,0.004598804399294842,-0.023352924097084057,0.03188898708126626,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,indirect,0.03889407473733149,-0.010323623027850969,0.08590726613400718,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,total,0.043492879136626326,-0.006958459683057793,0.09012675483722632,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,direct,-3.536091031124813,-6.649738359343426,-0.3726564365107192,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,indirect,-4.451070817864588,-9.32575530664323,-0.0944666158139174,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,total,-7.987161848989401,-12.27907012396169,-4.252918165552852,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,direct,-0.028315443178060645,-0.0984232536365245,0.04429123889483692,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,indirect,-0.16423836307793888,-0.4320215344273022,0.06208572383419796,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,total,-0.19255380625599952,-0.49855009395793076,0.059615201636176715,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,direct,-0.0314640475792111,-0.050953613291409204,-0.010267962717323272,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,indirect,-0.03727271890798751,-0.12579330096979435,0.05833829088631462,econ,ind,SDM,full
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,total,-0.0687367664871986,-0.16779776562987977,0.04043502657615342,econ,ind,SDM,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,direct,0.017790369375653776,-0.0023113967980521715,0.036943407642351,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,indirect,0.021245357010800155,-0.0034131348764761802,0.04740624841830821,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,total,0.03903572638645393,-0.005934631847992752,0.08157427989780182,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,direct,-3.1727486964686165,-4.544755211596455,-1.6891954725693201,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,indirect,-3.788913953314106,-5.627873992020602,-2.3969843410664438,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,total,-6.961662649782722,-9.424478587819774,-4.350405777474069,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,direct,-0.04281266155737046,-0.1067859231032306,0.022601037358110303,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,indirect,-0.051127116034681466,-0.14610359109357313,0.03140120846324118,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,total,-0.09393977759205192,-0.2452773676476212,0.054100937994830456,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,direct,-0.03084331449079138,-0.04994145251769658,-0.01216221768254585,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,indirect,-0.03683325589911579,-0.07562928248974503,-0.013437292646594351,econ,ind,SAR,full
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,total,-0.06767657038990717,-0.12100127423825412,-0.02633866826492015,econ,ind,SAR,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,direct,0.004742750140474603,-0.028833235687076512,0.03882173938596649,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,indirect,0.04423234135485643,0.007590731163690735,0.08185264330195922,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,total,0.04897509149533103,0.024729660699188128,0.0737336168603538,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,direct,-4.011879817492701,-7.875998747477657,-0.24310100051408434,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,indirect,-3.1126434265883045,-7.138873279790404,1.0524756090558713,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,total,-7.124523244081005,-9.154041286222753,-5.162756395342854,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,direct,-0.013197396718113041,-0.09162532309893186,0.0656461817399994,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,indirect,-0.10847875418453745,-0.24429233597802166,0.02561009729056375,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,total,-0.12167615090265049,-0.2624182000850603,0.018389522679232512,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,direct,-0.03780611135208212,-0.05889279368248263,-0.017889429926135878,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,indirect,-0.04731289761040036,-0.09505981843688509,-0.00039794758122773207,econ,ind,SLX,full
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,total,-0.08511900896248248,-0.13680326515970082,-0.033009515726745715,econ,ind,SLX,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,direct,0.004414991787611383,-0.023536494291081726,0.031895744047953374,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,indirect,0.0,0.0,0.0,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,total,0.004414991787611383,-0.023536494291081726,0.031895744047953374,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,direct,-5.563799190517633,-7.4100213203791645,-3.733285506593615,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,total,-5.563799190517633,-7.4100213203791645,-3.733285506593615,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,direct,-0.015867388313085762,-0.08147651774726124,0.05109250638386062,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,indirect,0.0,0.0,0.0,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,total,-0.015867388313085762,-0.08147651774726124,0.05109250638386062,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,direct,-0.028537442224009446,-0.0455820383738294,-0.011761536783731534,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,indirect,0.0,0.0,0.0,econ,ind,SEM,full
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,total,-0.028537442224009446,-0.0455820383738294,-0.011761536783731534,econ,ind,SEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,direct,0.01119230081129604,-0.016068050281248518,0.03836098162422398,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,indirect,0.03412986775908733,-0.007064491983606715,0.07705687801248381,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,manuf,total,0.04532216857038337,0.0007720100010012666,0.0891941914679765,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,direct,-3.7407192192296455,-6.874144165298907,-0.6934339374917405,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,indirect,-4.441405988744207,-8.417702425938048,-0.6570134900195932,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,lgrdp,total,-8.182125207973852,-11.190581324760112,-5.2685946471372445,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,direct,-0.03339752106654542,-0.10086261362749495,0.03514392886882851,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,indirect,-0.13072438921140295,-0.27856767739583743,0.014824949752162477,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,tpt,total,-0.16412191027794837,-0.3384499604034171,0.01444917721135867,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,direct,-0.02922568511235111,-0.04909852559173826,-0.010330315195661148,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,indirect,-0.011983302137839047,-0.06475357998363838,0.03966000486474463,econ,ind,SDEM,full
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,sanit,total,-0.041208987250190156,-0.10656898482909387,0.021210921913988545,econ,ind,SDEM,full
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,manuf,direct,-0.015088877336547702,-0.056040756254735015,0.02693294681685242,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,manuf,indirect,0.04275187004714969,-0.04248414015851059,0.1284603484178901,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,manuf,total,0.02766299271060199,-0.059561734573569364,0.11377545583106141,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,lgrdp,direct,-0.7744542717793165,-6.616305672980564,5.087345924811537,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,lgrdp,indirect,-4.4694849313991645,-11.139561405456837,2.1968151023599645,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,lgrdp,total,-5.243939203178481,-8.24854012441472,-2.6078021030717857,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,tpt,direct,0.00709868378293707,-0.08343199435974775,0.09869072955217947,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,tpt,indirect,-0.12905594167323084,-0.3647556820371076,0.08890269149274994,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,tpt,total,-0.12195725789029377,-0.3886813098680704,0.12399861271073813,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,sanit,direct,-0.016567974913811154,-0.03855260620738919,0.005041786692107034,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,sanit,indirect,0.004398157031618593,-0.05119443738902436,0.07094329998764513,econ,ind,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,sanit,total,-0.012169817882192561,-0.07827590296088724,0.06659630442005475,econ,ind,SDM,2022-2024
+SDM+HDI | Economic k=4 (2020 profile) | ind,manuf,direct,0.0026270130462223286,-0.026747854867643764,0.032094367731396435,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,manuf,indirect,0.026274066239462386,-0.03236112877457058,0.07786745126898038,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,manuf,total,0.028901079285684715,-0.0306731109588887,0.08538647482111875,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,lgrdp,direct,-2.652939062219783,-6.363846683737907,1.1461851852682228,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,lgrdp,indirect,2.3457241095423154,-13.6448070872854,18.430806997652958,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,lgrdp,total,-0.30721495267746785,-17.996908773902717,17.56271471339511,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,tpt,direct,-0.036252514173145886,-0.10795303425718812,0.03549510248653041,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,tpt,indirect,-0.19831626795964424,-0.474858480264267,0.0385049227307696,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,tpt,total,-0.23456878213279012,-0.5469477784823902,0.04082701638231657,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,sanit,direct,-0.029424574324066883,-0.049524686472715594,-0.008577187078730708,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,sanit,indirect,-0.02891242020134448,-0.11537201303088757,0.06562496255836071,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,sanit,total,-0.05833699452541136,-0.15662985175158328,0.048474715439609274,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,hdi,direct,-0.11274316929759423,-0.41350933591212957,0.18100841775050328,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,hdi,indirect,-0.5487592850848687,-1.944484492980059,0.7751225210834533,econ,ind,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | ind,hdi,total,-0.6615024543824629,-2.2002026194585245,0.7789434311009384,econ,ind,SDM,full+HDI
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,direct,-0.0034871044990028395,-0.03210612074993247,0.02501856603353448,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,indirect,-0.018391247897940416,-0.08262636248237364,0.043647932549138145,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,total,-0.021878352396943256,-0.09235919822139402,0.044809584947860984,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,direct,-3.983097391148091,-7.371928683970388,-0.5953511998713282,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,indirect,-3.738477754926285,-17.221302918351004,7.5581709155325045,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,total,-7.721575146074376,-22.002030655106182,4.9227170961559725,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,direct,-0.02239243755386532,-0.0858451704791183,0.03922773792979229,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,indirect,-0.08642893210081448,-0.21160702001810933,0.03148236907124373,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,total,-0.1088213696546798,-0.2476340079261519,0.018151432368286036,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,direct,-0.03738097066956503,-0.05401457932934079,-0.019687416507860853,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,indirect,-0.03870762211252349,-0.07967077853655308,0.004902787234614232,econ,tw,SDM,full
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,total,-0.07608859278208852,-0.1232675271261158,-0.024145682786295582,econ,tw,SDM,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,direct,-8.017571198210191e-05,-0.027681828680577177,0.027776744487111066,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,indirect,-2.2116971232221115e-05,-0.011129487183141478,0.011050563612045301,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,total,-0.00010229268321432302,-0.03645436578530505,0.0374330536798895,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,direct,-3.4946836172350704,-6.910323324089288,-0.12053460651986146,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,indirect,-0.9640303168789677,-3.5990482162763326,0.11313461568625492,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,total,-4.458713934114038,-9.942034253657862,-0.15465390795445788,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,direct,-0.045139176168260395,-0.10288452908217481,0.015138601244831938,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,indirect,-0.012451923856721635,-0.04469342682971698,0.0065517430570857585,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,total,-0.05759110002498203,-0.13459704371054634,0.02204675166315799,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,direct,-0.03535496434663662,-0.05260321272846529,-0.01818282317839968,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,indirect,-0.009752887876384862,-0.028496242703555188,0.0004931716126046111,econ,tw,SAR,full
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,total,-0.04510785222302148,-0.07298615014854479,-0.02335392899293585,econ,tw,SAR,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,direct,-0.0034655093687388505,-0.03136244669138197,0.024574113217019945,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,indirect,-0.016479609393209027,-0.07430214753320367,0.040364599825814786,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,total,-0.019945118761947878,-0.08147536467630109,0.040250583626664144,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,direct,-3.978482616468051,-7.325580037418765,-0.7648667177277698,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,indirect,-2.9175400644723974,-13.529432318562314,7.572246022996873,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,total,-6.896022680940448,-18.595579324495084,4.566400847609188,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,direct,-0.021411910980698057,-0.0839558940238574,0.041474164402519796,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,indirect,-0.08104057258853858,-0.18642179420327332,0.0222359448050054,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,total,-0.10245248356923664,-0.21205747553029425,0.0065465605822607915,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,direct,-0.038106626076333416,-0.05514307353220308,-0.021479363459358976,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,indirect,-0.038494512690315424,-0.07663562143173322,-2.0454399712939476e-05,econ,tw,SLX,full
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,total,-0.07660113876664884,-0.11980921670438513,-0.033087214872098855,econ,tw,SLX,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,direct,0.001025554660196078,-0.02850032502161781,0.02910788980482677,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,indirect,0.0,0.0,0.0,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,total,0.001025554660196078,-0.02850032502161781,0.02910788980482677,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,direct,-3.347529636627874,-6.78699049725971,0.0038192221035893287,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,total,-3.347529636627874,-6.78699049725971,0.0038192221035893287,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,direct,-0.0471019498517351,-0.10930027477862483,0.014791269832059521,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,indirect,0.0,0.0,0.0,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,total,-0.0471019498517351,-0.10930027477862483,0.014791269832059521,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,direct,-0.03443453771989802,-0.05267487133097833,-0.016264891845721694,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,indirect,0.0,0.0,0.0,econ,tw,SEM,full
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,total,-0.03443453771989802,-0.05267487133097833,-0.016264891845721694,econ,tw,SEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,direct,-0.0033830774160869413,-0.031235875216464596,0.02437381442708869,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,indirect,-0.01829368618665178,-0.0770041347304628,0.04051352050817858,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,manuf,total,-0.02167676360273872,-0.08507048656202207,0.04093278736959532,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,direct,-3.9679914224791557,-7.242096351188556,-0.5356757570941533,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,indirect,-3.1709337568435703,-14.091760766207502,7.729153996464411,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,lgrdp,total,-7.138925179322726,-18.68782958275019,4.701019339031085,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,direct,-0.022453955957577154,-0.08370560954333314,0.04172716267529015,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,indirect,-0.08580495471575139,-0.19058484900341754,0.029769963040244516,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,tpt,total,-0.10825891067332855,-0.21993284948883537,0.013705470994201711,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,direct,-0.03710592190798501,-0.05459860738272876,-0.020090406511873063,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,indirect,-0.035769511235976645,-0.07539335657075955,0.005150580060787334,econ,tw,SDEM,full
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,sanit,total,-0.07287543314396165,-0.11949035677888249,-0.025439942725724477,econ,tw,SDEM,full
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,manuf,direct,-0.016536750400115482,-0.06267177894473654,0.02981925835160624,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,manuf,indirect,0.03868347768741942,-0.0720819217061392,0.14447563454019996,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,manuf,total,0.022146727287303936,-0.10131104787653789,0.13668940978328384,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,lgrdp,direct,-0.061654977759996205,-7.041081416656245,6.9322081342997555,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,lgrdp,indirect,-0.6820018489344339,-26.144663444222342,21.105546185777918,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,lgrdp,total,-0.7436568266944301,-28.78162425688515,24.097549314587837,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,tpt,direct,0.010124481804289945,-0.08300588130825519,0.10717139219613825,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,tpt,indirect,-0.12941587819496314,-0.42535059494016747,0.14476385913234607,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,tpt,total,-0.11929139639067321,-0.4553629123894675,0.20741068088815373,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,sanit,direct,-0.01498313484491971,-0.03826183971711329,0.008256802087634803,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,sanit,indirect,0.010403069856869661,-0.0539776441805561,0.0910718618646632,econ,tw,SDM,2022-2024
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,sanit,total,-0.004580064988050048,-0.08265237624182749,0.0905401698563796,econ,tw,SDM,2022-2024
+SDM+HDI | Economic k=4 (2020 profile) | tw,manuf,direct,-0.005434989551979981,-0.034224382463137054,0.023684024856525113,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,manuf,indirect,-0.022932225515578775,-0.08979876558712228,0.03961701129246199,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,manuf,total,-0.028367215067558755,-0.10221183723209631,0.037201465176743956,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,lgrdp,direct,-3.640545624645235,-7.156569803978479,-0.22745818114244795,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,lgrdp,indirect,-2.112758207280731,-15.814132313441839,9.830639582589518,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,lgrdp,total,-5.753303831925966,-20.876570265686908,7.371174340885146,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,tpt,direct,-0.02957261854018032,-0.09321389842217678,0.032631181078395424,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,tpt,indirect,-0.11013610838396004,-0.2475414858329326,0.013725635463693148,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,tpt,total,-0.13970872692414035,-0.2909445578923769,-0.00377772903949573,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,sanit,direct,-0.03651043508190221,-0.05429421245948349,-0.018445403579393286,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,sanit,indirect,-0.035278000653480864,-0.07916937758730237,0.009112813699412818,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,sanit,total,-0.07178843573538307,-0.12143507849347476,-0.022304749818184914,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,hdi,direct,-0.08271804605038954,-0.3573695657741607,0.18537858170617974,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,hdi,indirect,-0.3462107101077898,-1.08774330828208,0.34009050612331965,econ,tw,SDM,full+HDI
+SDM+HDI | Economic k=4 (2020 profile) | tw,hdi,total,-0.4289287561581794,-1.2464696565411861,0.31477206731130297,econ,tw,SDM,full+HDI
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,direct,-0.0002513973088223813,-0.02875592053548086,0.0243300552239161,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,indirect,-0.09556402024446205,-0.47476727078972564,0.029783409293263514,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,total,-0.09581541755328443,-0.48081534675858345,0.02813912905099461,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,direct,-4.793593927291026,-8.06946611885754,-1.4670595749775754,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,indirect,2.0349638202538394,-23.183975311696642,32.04433870954318,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,total,-2.7586301070371864,-29.059982492666617,27.956670279227723,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,direct,-0.07262328681443454,-0.18953791117078964,0.007782834517232182,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,indirect,-1.1006467396281068,-4.453160214178674,0.4817663758795402,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,total,-1.1732700264425413,-4.619156236269825,0.4598815624134433,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,direct,-0.05556997030588449,-0.10556447196551566,-0.03121931841421491,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,indirect,-0.7889841857605989,-2.4581378528210864,-0.2821771866230713,idw_full,ind,SDM,full
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,total,-0.8445541560664834,-2.5679689744041703,-0.321264654133149,idw_full,ind,SDM,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,manuf,direct,0.012117103294498343,-0.00827251280444627,0.03181630113579075,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,manuf,indirect,0.030252686353897804,-0.027727954228797286,0.0912312946605834,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,manuf,total,0.04236978964839615,-0.03566572146507912,0.11627670512502249,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,direct,-2.1276245604227464,-3.5303671238865664,-0.5844676498299328,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,indirect,-5.312025237462816,-9.376542234983004,-2.202241940718213,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,total,-7.439649797885562,-11.812388018531923,-2.9825647466084253,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,tpt,direct,-0.05640344675527148,-0.1177137929238727,0.007553596081136277,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,tpt,indirect,-0.14082208779558378,-0.44424023946920776,0.020205244823963606,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,tpt,total,-0.19722553455085526,-0.5463622812889398,0.027437364954092668,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,sanit,direct,-0.03376440308799949,-0.05318621493319706,-0.01569694418655989,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,sanit,indirect,-0.0842993471064667,-0.24390715408016023,-0.03068588949795166,idw_full,ind,SAR,full
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,sanit,total,-0.11806375019446617,-0.29243704644143476,-0.04934807950341202,idw_full,ind,SAR,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,manuf,direct,0.004144918812164568,-0.02848676905371552,0.03632654076262734,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,manuf,indirect,0.03840079517419781,-0.007791775165572626,0.08332938451545227,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,manuf,total,0.04254571398636238,0.00936393600972959,0.07468638444919663,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,direct,-4.686271036265771,-8.667474633893118,-0.6138340240640345,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,indirect,-0.4588023208173446,-7.436769543627398,6.664601990651823,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,total,-5.145073357083116,-11.10567830065577,0.9057481599178947,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,tpt,direct,-0.04378205555673653,-0.1150416847206954,0.0279643694983406,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,tpt,indirect,-0.10451074695862528,-0.5196997093089175,0.31898352032775906,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,tpt,total,-0.1482928025153618,-0.5869684535861954,0.29127565601190525,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,sanit,direct,-0.03936579390833672,-0.060106650541299274,-0.018559472620122742,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,sanit,indirect,-0.1801402353837177,-0.3123495163401472,-0.04080087259988212,idw_full,ind,SLX,full
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,sanit,total,-0.21950602929205443,-0.3542934993882771,-0.07596982092061332,idw_full,ind,SLX,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,direct,0.002458720527356072,-0.02407090711135158,0.02841584448634837,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,indirect,0.0,0.0,0.0,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,total,0.002458720527356072,-0.02407090711135158,0.02841584448634837,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,direct,-5.235359141565201,-7.6358474531786,-2.8731831914539376,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,total,-5.235359141565201,-7.6358474531786,-2.8731831914539376,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,direct,-0.03321600223983312,-0.09249479270380039,0.024523088097162065,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,indirect,0.0,0.0,0.0,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,total,-0.03321600223983312,-0.09249479270380039,0.024523088097162065,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,direct,-0.03088060818804461,-0.047749255357520885,-0.013505847488438317,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,indirect,0.0,0.0,0.0,idw_full,ind,SEM,full
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,total,-0.03088060818804461,-0.047749255357520885,-0.013505847488438317,idw_full,ind,SEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,direct,0.002973528939912494,-0.0203196767858159,0.027046631276074606,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,indirect,0.007055109495474277,-0.08246290264206746,0.09765183443336005,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,manuf,total,0.010028638435386771,-0.08248408124675306,0.10196926180182124,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,direct,-5.376595294278574,-8.409652052363967,-2.355260551071791,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,indirect,-1.2916793362018186,-7.978400314045675,5.203066113952784,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,lgrdp,total,-6.668274630480393,-12.806233558447367,-0.5898465098238124,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,direct,-0.062273668071791466,-0.12027441060200776,-0.004457556561186608,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,indirect,-0.4228401637386989,-0.7903921386737173,-0.06802971677206371,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,tpt,total,-0.4851138318104904,-0.8813069652276159,-0.09611723254373149,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,direct,-0.040452072586697696,-0.05699529176644496,-0.02389940959993247,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,indirect,-0.23759181203840618,-0.35666933518299176,-0.1100016150035842,idw_full,ind,SDEM,full
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,sanit,total,-0.2780438846251039,-0.4026088960424782,-0.1436854897988586,idw_full,ind,SDEM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,direct,0.004730026866079199,-0.019984277638596684,0.029624804346117643,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,indirect,0.020299494083998275,-0.1741626673435257,0.20556197158738382,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,total,0.025029520950077475,-0.17842274764687924,0.215724454201866,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,direct,-4.853324612790956,-7.924739495332449,-1.7871646804328605,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,indirect,3.520381879135874,-11.597509900415027,21.622654552493294,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,total,-1.3329427336550823,-16.85537436206226,17.757267175014043,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,direct,-0.05357230311190645,-0.1096083612705824,-0.002420791738316054,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,indirect,-0.15362130566581525,-0.4812672922147702,0.06877279485196693,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,total,-0.2071936087777217,-0.5500298077525314,0.013432053060019303,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,direct,-0.03765771889756582,-0.05304389001338279,-0.02215537012070714,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,indirect,-0.16669229930543977,-0.30127514181973414,-0.09147474286350797,idw_full,tw,SDM,full
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,total,-0.2043500182030056,-0.34146439817951196,-0.12927196154845869,idw_full,tw,SDM,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,manuf,direct,0.0012119195672129874,-0.027510011363575348,0.02953331442215855,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,manuf,indirect,0.0005939139310685894,-0.06078664998620194,0.07993122031744816,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,manuf,total,0.0018058334982815768,-0.07507920105491858,0.10035601201939341,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,direct,-3.6440842326419696,-7.431887993699998,-0.05702846538568546,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,indirect,-1.785821807243003,-27.05343899112099,2.054884399014822,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,total,-5.429906039884973,-33.00329991149983,2.3531945815698325,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,tpt,direct,-0.05129579059699968,-0.11346878158952735,0.010587002079604172,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,tpt,indirect,-0.025138041719051776,-0.3753266505376224,0.054758274062814354,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,tpt,total,-0.07643383231605146,-0.4410316687601537,0.07034764838840936,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,sanit,direct,-0.03659453530359388,-0.05516535473607558,-0.018515343804441402,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,sanit,indirect,-0.01793353693246056,-0.2578704273550303,0.018890922914804764,idw_full,tw,SAR,full
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,sanit,total,-0.05452807223605444,-0.3053144092688624,-0.01419561072958012,idw_full,tw,SAR,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,manuf,direct,0.004082824746992344,-0.022489701040205683,0.030779992439276208,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,manuf,indirect,0.0017978702538867797,-0.25822167503534577,0.24977218200233445,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,manuf,total,0.005880695000879124,-0.263714943729445,0.26577295532037554,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,direct,-4.701418451095975,-7.860273926802658,-1.5473337639442168,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,indirect,6.145357274920837,-15.872262294328564,27.866021131706834,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,total,1.4439388238248618,-21.45529235449442,23.782874577711418,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,tpt,direct,-0.053233621937750275,-0.10529866697868433,0.0015856202037646879,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,tpt,indirect,-0.262504226540074,-0.6024901342423257,0.07106038606496651,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,tpt,total,-0.31573784847782427,-0.6638826102068991,0.026287655455657796,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,sanit,direct,-0.03891765177124196,-0.05459694807908943,-0.023142752705242794,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,sanit,indirect,-0.22790771950834032,-0.33334055827588827,-0.1180162993435697,idw_full,tw,SLX,full
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,sanit,total,-0.2668253712795823,-0.3774170763238048,-0.15550606446776358,idw_full,tw,SLX,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,direct,0.0008808852987895634,-0.027026948450387393,0.0278331418715718,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,indirect,0.0,0.0,0.0,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,total,0.0008808852987895634,-0.027026948450387393,0.0278331418715718,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,direct,-3.4706906033593907,-6.812507617981569,-0.1341042599443865,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,indirect,0.0,0.0,0.0,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,total,-3.4706906033593907,-6.812507617981569,-0.1341042599443865,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,direct,-0.06153135870853621,-0.12574524880908206,0.0029234120595185097,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,indirect,0.0,0.0,0.0,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,total,-0.06153135870853621,-0.12574524880908206,0.0029234120595185097,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,direct,-0.040688511287857665,-0.060453864057378404,-0.020608856219595763,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,indirect,0.0,0.0,0.0,idw_full,tw,SEM,full
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,total,-0.040688511287857665,-0.060453864057378404,-0.020608856219595763,idw_full,tw,SEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,direct,0.004410427426564062,-0.02043128570551777,0.03059695462855318,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,indirect,0.004013535265351309,-0.2332094718056322,0.2603373992695243,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,manuf,total,0.00842396269191537,-0.23541145574384745,0.27578744104570185,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,direct,-4.690776526769642,-7.888578311968426,-1.5547901198718521,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,indirect,5.3930024758808,-15.797917752767496,26.19658057619224,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,lgrdp,total,0.702225949111158,-20.84898507009879,22.24326826934028,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,direct,-0.05274861824070731,-0.10480546760490086,-0.0001971503492382231,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,indirect,-0.21776017130808706,-0.5779019558364387,0.13645959328874896,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,tpt,total,-0.27050878954879437,-0.6353751728461111,0.09597811135365582,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,direct,-0.03919840332601732,-0.054950193444971984,-0.023679605647568755,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,indirect,-0.22815047300898494,-0.3294061155512394,-0.12661594126496883,idw_full,tw,SDEM,full
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,sanit,total,-0.26734887633500226,-0.36953115633651784,-0.16291553773220793,idw_full,tw,SDEM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,direct,0.01270676717397007,-0.013300825594943999,0.03842087322433418,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,indirect,0.025306707701229475,-0.037732398095755806,0.08139272058605468,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,total,0.03801347487519954,-0.02503470809185745,0.09154784258981997,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,direct,-6.577006973247126,-9.530574189604444,-3.5226550303739175,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,indirect,-0.2593682117452927,-6.296424599687497,6.0162738033364604,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,total,-6.836375184992419,-12.80387130888875,-0.6644029917690705,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,direct,-0.040983629684853334,-0.1131975900106653,0.026979799238478458,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,indirect,-0.24255064622410863,-0.6858910922484472,0.13452345789887657,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,total,-0.28353427590896196,-0.7687298936151243,0.1335877449673324,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,direct,-0.04020758146574416,-0.06014806312966329,-0.02081662830289192,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,indirect,-0.1373679836651431,-0.2737138682195596,-0.03211037692577304,idw69,ind,SDM,full
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,total,-0.17757556513088726,-0.32513625349616154,-0.06177717613422605,idw69,ind,SDM,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,direct,0.020755494091554756,0.0009083578130089869,0.04020913212161575,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,indirect,0.024839569735404167,0.0011223734448919103,0.054511388349453606,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,total,0.04559506382695892,0.0018960318951266356,0.09145710227701484,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,direct,-3.27985070146574,-4.723660615056568,-1.793346344261114,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,indirect,-3.925229621679882,-5.903432098864775,-2.479667977946102,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,total,-7.205080323145622,-9.775895027141082,-4.593953808544507,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,direct,-0.05198880778317167,-0.11674499744366244,0.011878609398983636,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,indirect,-0.062218688251611774,-0.16503319334792207,0.015635047287345775,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,total,-0.11420749603478345,-0.27682058668265824,0.02824782002539164,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,direct,-0.03299161581007245,-0.05166424801587683,-0.013440301715514684,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,indirect,-0.03948340318872023,-0.08184263258826939,-0.014699701560956291,idw69,ind,SAR,full
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,total,-0.07247501899879268,-0.1281946768959425,-0.029514747354036603,idw69,ind,SAR,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,direct,0.014277652016720368,-0.015731061856526434,0.04463828825147807,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,indirect,0.04040987359348236,0.0012420054068615332,0.07927937655516364,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,total,0.05468752561020273,0.0281457234785762,0.08121013123807003,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,direct,-6.6412982394334925,-10.141947642766839,-2.92309954567572,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,indirect,-0.15534041981075752,-4.592668271093611,4.228964749673278,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,total,-6.79663865924425,-9.666337478500992,-3.8782698637552118,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,direct,-0.036261035839556977,-0.10540196493068985,0.034756877780219825,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,indirect,-0.11610369809629639,-0.3119226000021193,0.07989638993907097,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,total,-0.15236473393585337,-0.36157493890522624,0.05930161534360676,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,direct,-0.03987181441434107,-0.06010513613593042,-0.01942960698235275,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,indirect,-0.0876615974462811,-0.14256833875810945,-0.03415089396307043,idw69,ind,SLX,full
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,total,-0.12753341186062217,-0.18622047099002167,-0.07067468308977072,idw69,ind,SLX,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,direct,0.012846919430082048,-0.012364668455973804,0.038235195013805234,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,indirect,0.0,0.0,0.0,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,total,0.012846919430082048,-0.012364668455973804,0.038235195013805234,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,direct,-6.029558239130937,-7.760787589311377,-4.324041514082889,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,indirect,0.0,0.0,0.0,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,total,-6.029558239130937,-7.760787589311377,-4.324041514082889,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,direct,-0.027357029149083112,-0.08764629418464455,0.03159418903607641,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,indirect,0.0,0.0,0.0,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,total,-0.027357029149083112,-0.08764629418464455,0.03159418903607641,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,direct,-0.02574642764394408,-0.04327013300946695,-0.008162056586358692,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,indirect,0.0,0.0,0.0,idw69,ind,SEM,full
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,total,-0.02574642764394408,-0.04327013300946695,-0.008162056586358692,idw69,ind,SEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,direct,0.015409553586733762,-0.009061059999559955,0.03891133388440783,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,indirect,0.01818812439581308,-0.035434785061117996,0.06952052804654159,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",manuf,total,0.03359767798254684,-0.020631726228694004,0.08669099590831884,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,direct,-7.27239805846743,-9.942778606832874,-4.558383950496721,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,indirect,0.14878401948555098,-3.8371899958235973,4.175036164130593,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",lgrdp,total,-7.123614038981879,-10.835498345861057,-3.321206600040671,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,direct,-0.04937279111486406,-0.1129718413616439,0.013340573512537446,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,indirect,-0.22020408897156038,-0.438585864264065,-0.0013986829567807072,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",tpt,total,-0.26957688008642444,-0.5223637675153341,-0.015989252810155005,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,direct,-0.039593757299105636,-0.057933616024910914,-0.020984898797116344,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,indirect,-0.0912393350734142,-0.1562071586050881,-0.02716867710802634,idw69,ind,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",sanit,total,-0.13083309237251983,-0.20598815149027586,-0.05664087779502261,idw69,ind,SDEM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,direct,0.01176704438936893,-0.014503834798936967,0.03749621156503787,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,indirect,0.010379748502737717,-0.07773657040069151,0.0945413965311878,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,total,0.022146792892106647,-0.07219635981874355,0.11190962732020897,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,direct,-5.54134236848907,-8.810672729317996,-2.3290924328954516,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,indirect,3.116121925882295,-2.2469039578053605,8.593082376181364,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,total,-2.4252204426067747,-8.652592684557078,3.871984416903823,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,direct,-0.041057810780593056,-0.09491805036619134,0.01368185939700525,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,indirect,-0.11501735807188682,-0.26265012546175737,0.021029784671213053,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,total,-0.15607516885247988,-0.3172723146876196,-0.015554903720855556,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,direct,-0.03698982759367878,-0.05253144791736538,-0.020816388341290345,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,indirect,-0.080192233287922,-0.1250331897800781,-0.038574712635696826,idw69,tw,SDM,full
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,total,-0.11718206088160078,-0.16551857473027717,-0.07133872525377977,idw69,tw,SDM,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,direct,0.0014250257335751474,-0.027144912175925365,0.028631279413221637,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,indirect,0.0003101948456918624,-0.009246734960090663,0.010617891156723925,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,total,0.0017352205792670098,-0.0343212428543314,0.03724711712350872,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,direct,-3.7930291035897676,-7.228942306401938,-0.35956925501830483,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,indirect,-0.8256539161162637,-3.7241966835511864,0.30861720631041045,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,total,-4.618683019706031,-10.17943150200595,-0.4360058358878031,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,direct,-0.04982810474623915,-0.11166961077824332,0.007705286481224219,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,indirect,-0.010846415540932082,-0.0462445323239894,0.006481250377170515,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,total,-0.060674520287171234,-0.1409574427362187,0.009797969600173139,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,direct,-0.03675239632079315,-0.05396206687931836,-0.01988402214477948,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,indirect,-0.00800013897077699,-0.029658688349802773,0.003537309786126018,idw69,tw,SAR,full
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,total,-0.04475253529157014,-0.0752084108970655,-0.023343579593673256,idw69,tw,SAR,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,direct,0.01112465306610753,-0.014629465544553862,0.03742137181103085,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,indirect,0.005353786869554343,-0.09030130770803882,0.10064378185786588,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,total,0.016478439935661872,-0.08719557822036973,0.1206601516208014,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,direct,-5.454644780434057,-8.615443697636744,-2.2295580531659374,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,indirect,3.739030391312832,-2.5274457671467796,9.912821417653968,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,total,-1.715614389121225,-8.846433905348452,5.324902851381594,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,direct,-0.04049913855860421,-0.09359600514628824,0.0120449265794559,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,indirect,-0.13120309751570458,-0.29239255325115837,0.029160677583570955,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,total,-0.1717022360743088,-0.34381177237600713,-0.0006196622898464826,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,direct,-0.036711877344480115,-0.05286688815793637,-0.020651392501877544,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,indirect,-0.08425025099107986,-0.1339111529880941,-0.032582227885154615,idw69,tw,SLX,full
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,total,-0.12096212833555997,-0.1744796072789386,-0.06511996837360882,idw69,tw,SLX,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,direct,0.000857205919764923,-0.025996680827221737,0.028082454367126412,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,indirect,0.0,0.0,0.0,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,total,0.000857205919764923,-0.025996680827221737,0.028082454367126412,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,direct,-3.6918830265160207,-7.217507062218761,-0.02475060439520135,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,indirect,0.0,0.0,0.0,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,total,-3.6918830265160207,-7.217507062218761,-0.02475060439520135,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,direct,-0.050873173552330675,-0.1113721568723887,0.01165302226559229,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,indirect,0.0,0.0,0.0,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,total,-0.050873173552330675,-0.1113721568723887,0.01165302226559229,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,direct,-0.03631204584931558,-0.054764476520155286,-0.017741993738373336,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,indirect,0.0,0.0,0.0,idw69,tw,SEM,full
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,total,-0.03631204584931558,-0.054764476520155286,-0.017741993738373336,idw69,tw,SEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,direct,0.01141513611994205,-0.014345723523598178,0.03606518684618589,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,indirect,0.010526904600079432,-0.08203640497692567,0.10480940764047464,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",manuf,total,0.021942040720021483,-0.07619835429140039,0.12311156217549434,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,direct,-5.476175294059418,-8.5886018076554,-2.2237651815630803,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,indirect,3.1274584213484964,-3.045973972384025,9.189519193956775,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",lgrdp,total,-2.3487168727109218,-9.158657257708212,4.584022880705632,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,direct,-0.04083039940899846,-0.09339858341064365,0.012477631284290247,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,indirect,-0.11924146930056767,-0.2688327679243421,0.03426675265473234,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",tpt,total,-0.16007186870956613,-0.313770421993816,-0.0010281111836469407,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,direct,-0.037228353121610436,-0.05292699491764981,-0.021350506349387188,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,indirect,-0.08666647139497163,-0.13318439808700308,-0.04054505449328393,idw69,tw,SDEM,full
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",sanit,total,-0.12389482451658207,-0.174718861931423,-0.07400589305227859,idw69,tw,SDEM,full
+SDM | econ_k3_euclid | ind,manuf,direct,0.002664548320918967,-0.025818459464468053,0.030129978105831037,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,manuf,indirect,0.0465784654807845,0.004937491820368314,0.08875512460739837,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,manuf,total,0.04924301380170347,0.008111215600200469,0.08994040825842037,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,lgrdp,direct,-4.238691141834608,-7.391662589904874,-1.1280659094740157,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,lgrdp,indirect,-2.212570453071777,-6.042292617040872,1.5952706847219678,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,lgrdp,total,-6.451261594906385,-9.397736400386547,-3.261393411985748,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,tpt,direct,-0.022464739604024633,-0.09091798361433463,0.04730648089582569,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,tpt,indirect,-0.057801152452075774,-0.2342035966388282,0.12479336430098895,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,tpt,total,-0.08026589205610041,-0.28734004117845174,0.13352977113766537,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,sanit,direct,-0.036220377270333046,-0.056763537972073445,-0.016509065126266636,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,sanit,indirect,-0.058815835870909786,-0.12429934988621424,0.00258456077592424,econ_k3_euclid,ind,SDM,full
+SDM | econ_k3_euclid | ind,sanit,total,-0.09503621314124283,-0.17203955708962335,-0.022259773755570027,econ_k3_euclid,ind,SDM,full
+SAR | econ_k3_euclid | ind,manuf,direct,0.021162963770602963,0.0008190624883423685,0.04126232484542499,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,manuf,indirect,0.019241731887784275,0.0008302951086734033,0.04084625132042182,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,manuf,total,0.04040469565838724,0.001616765576303223,0.0786009313638705,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,lgrdp,direct,-3.6102165849045904,-5.021401893559677,-2.1510469336377436,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,lgrdp,indirect,-3.2824712236223363,-4.755724076714506,-2.143369889190511,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,lgrdp,total,-6.892687808526927,-8.987724039840115,-4.6772838358413855,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,tpt,direct,-0.048650144496194925,-0.11385204831350244,0.017030772125180303,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,tpt,indirect,-0.044233550973521094,-0.11429763091331392,0.017266996253847207,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,tpt,total,-0.09288369546971602,-0.22237017759979003,0.03532820804163624,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,sanit,direct,-0.03177915219390769,-0.05115397416662334,-0.012404897299064811,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,sanit,indirect,-0.02889415361498967,-0.057107366045101325,-0.010707652851150272,econ_k3_euclid,ind,SAR,full
+SAR | econ_k3_euclid | ind,sanit,total,-0.06067330580889736,-0.10418892480140608,-0.023999843796858177,econ_k3_euclid,ind,SAR,full
+SDM | econ_k3_euclid | tw,manuf,direct,-0.006027587832191432,-0.033779942620118,0.02203212254008992,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,manuf,indirect,0.012352891283419008,-0.036549343092094455,0.06193311001995931,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,manuf,total,0.006325303451227577,-0.04779694578902128,0.06090515878393238,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,lgrdp,direct,-2.897906044939078,-6.180776554737199,0.5235889764888553,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,lgrdp,indirect,7.355044556000755,-1.532576450418901,16.611404045402203,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,lgrdp,total,4.457138511061677,-5.692268582228073,15.10403588392168,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,tpt,direct,-0.02374034728610629,-0.0858424333006179,0.03624326869193828,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,tpt,indirect,-0.03130692171836788,-0.12921157502776395,0.06717995016734914,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,tpt,total,-0.05504726900447417,-0.15937562308424066,0.0474679427319604,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,sanit,direct,-0.036139392611500516,-0.05350127153159005,-0.01875817314232948,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,sanit,indirect,-0.04162963467976582,-0.07381106785981183,-0.010849252612354376,econ_k3_euclid,tw,SDM,full
+SDM | econ_k3_euclid | tw,sanit,total,-0.07776902729126633,-0.11481950854864835,-0.04039410132208854,econ_k3_euclid,tw,SDM,full
+SAR | econ_k3_euclid | tw,manuf,direct,0.0004024735124549205,-0.027696397732294077,0.027420421253414547,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,manuf,indirect,7.94896281533468e-05,-0.007724952921676217,0.008142343071290362,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,manuf,total,0.0004819631406082673,-0.03437855629195307,0.03355408155442176,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,lgrdp,direct,-3.525655796672739,-6.949730570292489,-0.08900305303471368,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,lgrdp,indirect,-0.6963267385343723,-2.494375242396286,0.14827955944636032,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,lgrdp,total,-4.221982535207111,-8.618277315553742,-0.11071932373843911,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,tpt,direct,-0.0480500656748106,-0.1075104854440285,0.0133162348418198,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,tpt,indirect,-0.0094900204237972,-0.03404957108694562,0.004681332109750126,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,tpt,total,-0.0575400860986078,-0.13051156003665007,0.016323810571156856,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,sanit,direct,-0.03597463395051372,-0.053612259928926966,-0.018730812825174973,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,sanit,indirect,-0.007105089371563032,-0.02059069155652104,0.0012383724570059317,econ_k3_euclid,tw,SAR,full
+SAR | econ_k3_euclid | tw,sanit,total,-0.043079723322076754,-0.06730220649069826,-0.022474313038027362,econ_k3_euclid,tw,SAR,full
+SDM | econ_k3_manhattan | ind,manuf,direct,-0.001322925159191503,-0.029040626217160855,0.025934872183859956,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,manuf,indirect,0.044597010142248365,0.0049582196669247375,0.08469832422548941,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,manuf,total,0.04327408498305686,0.001490304829318274,0.08403533077563302,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,lgrdp,direct,-4.737773840404088,-8.116123868090586,-1.4659218316733251,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,lgrdp,indirect,-2.053648967342676,-5.915264269010761,2.004385213946484,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,lgrdp,total,-6.791422807746764,-9.933839823515461,-3.611643310888143,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,tpt,direct,-0.026644214256413338,-0.09342981416970261,0.03935560310626866,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,tpt,indirect,-0.095199444392384,-0.2853428036264733,0.10035321672729772,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,tpt,total,-0.12184365864879733,-0.3423215388279387,0.09919089542965655,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,sanit,direct,-0.03926971428885305,-0.0595455660482422,-0.018848030543157254,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,sanit,indirect,-0.05982636286652078,-0.1256483842421334,0.003860966598356426,econ_k3_manhattan,ind,SDM,full
+SDM | econ_k3_manhattan | ind,sanit,total,-0.09909607715537383,-0.1774895960765919,-0.02262492209432574,econ_k3_manhattan,ind,SDM,full
+SAR | econ_k3_manhattan | ind,manuf,direct,0.02018290489082862,0.00022813176408753615,0.039389695272757874,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,manuf,indirect,0.019134076805315862,0.00022229819638904023,0.040109544780740226,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,manuf,total,0.03931698169614448,0.00048285078834818214,0.07733273765916576,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,lgrdp,direct,-3.565295420899088,-4.961833427203322,-2.157688611073513,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,lgrdp,indirect,-3.3800207049542967,-4.864740781945675,-2.200661337562412,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,lgrdp,total,-6.945316125853385,-9.168912909014317,-4.715610666344417,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,tpt,direct,-0.05116864445320262,-0.11654347276276972,0.014375485895806013,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,tpt,indirect,-0.048509606436107126,-0.12393767706758106,0.014613289829509364,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,tpt,total,-0.09967825088930975,-0.23621447041136265,0.02932431218887325,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,sanit,direct,-0.033805698365755484,-0.05286906697282239,-0.01495118363872814,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,sanit,indirect,-0.032048946000911856,-0.06165400327777432,-0.01260108738539305,econ_k3_manhattan,ind,SAR,full
+SAR | econ_k3_manhattan | ind,sanit,total,-0.06585464436666734,-0.11084240347727282,-0.028728395586556387,econ_k3_manhattan,ind,SAR,full
+SDM | econ_k3_manhattan | tw,manuf,direct,-0.011460615298018648,-0.038388176048003674,0.01588536347028234,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,manuf,indirect,0.023589824480451566,-0.01678821969752148,0.06402350019395733,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,manuf,total,0.012129209182432918,-0.03234282639296458,0.0579986847607154,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,lgrdp,direct,-2.9558547212979263,-6.182302481567124,0.4112737284798054,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,lgrdp,indirect,15.602567717236788,4.863998362721071,26.69816588777954,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,lgrdp,total,12.646712995938861,1.2326132797635765,24.730290554052043,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,tpt,direct,-0.030148483734325517,-0.0860407539538896,0.02799522095821407,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,tpt,indirect,-0.04447357121071287,-0.14031287237342216,0.05107138287728103,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,tpt,total,-0.07462205494503839,-0.17430287914514087,0.02248145205422927,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,sanit,direct,-0.03492769371334475,-0.05125618194820591,-0.01871024178932539,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,sanit,indirect,-0.025872290478265413,-0.05666450760846428,0.005745756665240368,econ_k3_manhattan,tw,SDM,full
+SDM | econ_k3_manhattan | tw,sanit,total,-0.06079998419161016,-0.09809067544203225,-0.022162870342223452,econ_k3_manhattan,tw,SDM,full
+SAR | econ_k3_manhattan | tw,manuf,direct,0.00013729759369380344,-0.028898834198207768,0.026510384640218647,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,manuf,indirect,2.8694531373056376e-05,-0.008931836028206906,0.008213226353477926,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,manuf,total,0.00016599212506685981,-0.03594401788989865,0.033651636483783,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,lgrdp,direct,-3.657853567544465,-7.086752531821797,-0.2585632754998708,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,lgrdp,indirect,-0.7644736599392274,-2.9137032741551194,0.14277406800040912,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,lgrdp,total,-4.4223272274836924,-9.25396751882254,-0.31775262676806665,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,tpt,direct,-0.04854814914405323,-0.10526537490051113,0.012229012020892336,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,tpt,indirect,-0.010146327777780483,-0.03731925074182493,0.004577574297621733,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,tpt,total,-0.058694476921833716,-0.1317535339540107,0.014535595103485895,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,sanit,direct,-0.03670871116287863,-0.053671989205362536,-0.019061388379918144,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,sanit,indirect,-0.007671942645089691,-0.023118692001144647,0.001245693216773406,econ_k3_manhattan,tw,SAR,full
+SAR | econ_k3_manhattan | tw,sanit,total,-0.04438065380796832,-0.07067855718412581,-0.022789918320818142,econ_k3_manhattan,tw,SAR,full
+SDM | econ_k4_euclid | ind,manuf,direct,0.004598804399316351,-0.023110508667833655,0.033329032235210006,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,manuf,indirect,0.03889407473744624,-0.010959737951117899,0.08489996739609786,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,manuf,total,0.043492879136762586,-0.007690070470159834,0.09070692050094326,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,lgrdp,direct,-3.5360910311301095,-6.621418291407573,-0.42033261198917465,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,lgrdp,indirect,-4.45107081783785,-9.11083381484554,-0.07370911299790628,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,lgrdp,total,-7.98716184896796,-12.100729445228405,-4.214130969544908,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,tpt,direct,-0.028315443177847892,-0.10230175312470426,0.040686446993076386,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,tpt,indirect,-0.1642383630763899,-0.4187305747057686,0.0674239558377414,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,tpt,total,-0.1925538062542378,-0.48794048828298103,0.06400502856873687,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,sanit,direct,-0.031464047579314494,-0.05137673861485751,-0.01024276116021082,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,sanit,indirect,-0.037272718908291216,-0.12861015431330688,0.05367066054269857,econ_k4_euclid,ind,SDM,full
+SDM | econ_k4_euclid | ind,sanit,total,-0.06873676648760571,-0.17368643204619322,0.03449347862289043,econ_k4_euclid,ind,SDM,full
+SAR | econ_k4_euclid | ind,manuf,direct,0.01779036937606447,-0.002368169945612252,0.036774449669366896,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,manuf,indirect,0.02124535701050953,-0.0031044933578718483,0.047471625036552265,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,manuf,total,0.039035726386574,-0.005664231540933266,0.08116576786771447,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,lgrdp,direct,-3.172748696535864,-4.576227466117495,-1.7655433353153696,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,lgrdp,indirect,-3.7889139532551166,-5.643786267770695,-2.377838486010094,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,lgrdp,total,-6.961662649790981,-9.453000860518355,-4.437314175636473,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,tpt,direct,-0.042812661557919796,-0.10857752642216098,0.021914654143886967,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,tpt,indirect,-0.05112711603345786,-0.14665328650684464,0.028337815255227525,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,tpt,total,-0.09393977759137766,-0.2503232266256651,0.04840187607889258,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,sanit,direct,-0.030843314490879705,-0.04996153226667664,-0.012191702960770373,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,sanit,indirect,-0.03683325589786712,-0.0752773147207678,-0.013531392426923727,econ_k4_euclid,ind,SAR,full
+SAR | econ_k4_euclid | ind,sanit,total,-0.06767657038874683,-0.12033473589300483,-0.02652319952331666,econ_k4_euclid,ind,SAR,full
+SDM | econ_k4_euclid | tw,manuf,direct,-0.0034871044969281883,-0.032150325375399025,0.024522639407265578,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,manuf,indirect,-0.018391247789216362,-0.083230884378247,0.04350397483756244,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,manuf,total,-0.02187835228614455,-0.09288635273845376,0.043959232842234734,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,lgrdp,direct,-3.983097390392056,-7.370774680673566,-0.5617255203066132,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,lgrdp,indirect,-3.738477708367743,-17.163059817007582,7.722141153355279,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,lgrdp,total,-7.721575098759799,-22.29672127558543,4.9461591665810865,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,tpt,direct,-0.02239243750084735,-0.08612304674850166,0.03904270221302406,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,tpt,indirect,-0.08642893178881482,-0.21074406410650323,0.02917647335056707,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,tpt,total,-0.10882136928966217,-0.2449858700215862,0.01112989396063394,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,sanit,direct,-0.037380970708349455,-0.054098085812074675,-0.019993484696110068,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,sanit,indirect,-0.038707622103114424,-0.08101981605259607,0.0038588306692604025,econ_k4_euclid,tw,SDM,full
+SDM | econ_k4_euclid | tw,sanit,total,-0.07608859281146388,-0.12419065163559805,-0.026572422788471606,econ_k4_euclid,tw,SDM,full
+SAR | econ_k4_euclid | tw,manuf,direct,-8.01757440582017e-05,-0.0286073858618142,0.02781254541559469,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,manuf,indirect,-2.2116980895248072e-05,-0.012274050127060235,0.01082703654641453,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,manuf,total,-0.00010229272495344977,-0.03847054396097771,0.036230754323640355,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,lgrdp,direct,-3.494683618087121,-6.914493228051148,-0.07798098948485901,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,lgrdp,indirect,-0.9640303526221232,-3.597380238213969,0.13341947261868906,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,lgrdp,total,-4.458713970709244,-9.661745999770202,-0.08926462135868975,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,tpt,direct,-0.045139175879720494,-0.10485499495699785,0.013769133737270239,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,tpt,indirect,-0.012451924235767603,-0.045682913003990744,0.006156632268597838,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,tpt,total,-0.0575911001154881,-0.13794676148412507,0.02040442923540758,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,sanit,direct,-0.03535496427858844,-0.053171031116519274,-0.018112016582014074,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,sanit,indirect,-0.009752888216841296,-0.02956949796684813,0.0005398693025444598,econ_k4_euclid,tw,SAR,full
+SAR | econ_k4_euclid | tw,sanit,total,-0.045107852495429736,-0.0742846085008559,-0.022900543978765488,econ_k4_euclid,tw,SAR,full
+SDM | econ_k4_manhattan | ind,manuf,direct,0.0012605290553511419,-0.025990223845930933,0.027925427096749385,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,manuf,indirect,0.03323100262867324,-0.019629794397557125,0.08343818379823403,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,manuf,total,0.034491531684024385,-0.019789269562516455,0.08469005824039996,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,lgrdp,direct,-3.749098658247605,-6.849597174620501,-0.5606034316856254,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,lgrdp,indirect,-3.6807644052259265,-8.2035691883176,0.8929434100134429,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,lgrdp,total,-7.429863063473531,-11.596113419260334,-3.3877709433822405,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,tpt,direct,-0.030073237869151986,-0.09640536855663637,0.03476475229810694,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,tpt,indirect,-0.1986514342249584,-0.4789202191351251,0.04303679605702701,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,tpt,total,-0.22872467209411038,-0.5398536002696447,0.04462742152225689,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,sanit,direct,-0.03675951018897039,-0.056841208285548145,-0.016877639869255553,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,sanit,indirect,-0.0788730321685257,-0.18252701182598025,0.011667592486098548,econ_k4_manhattan,ind,SDM,full
+SDM | econ_k4_manhattan | ind,sanit,total,-0.1156325423574961,-0.2339331067295737,-0.012671378784603057,econ_k4_manhattan,ind,SDM,full
+SAR | econ_k4_manhattan | ind,manuf,direct,0.01596786106786841,-0.0049220168980773985,0.03510697798818675,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,manuf,indirect,0.021862894509004627,-0.007675679503213768,0.052912797931603986,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,manuf,total,0.037830755576873036,-0.012457539048979817,0.08394456948491044,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,lgrdp,direct,-2.9395010449205694,-4.3267067002565485,-1.4763990240758258,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,lgrdp,indirect,-4.024709444869084,-6.100223960035989,-2.4238377637832715,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,lgrdp,total,-6.964210489789654,-9.626561857851474,-4.1562856539580615,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,tpt,direct,-0.04911759310000696,-0.11325628040558208,0.015891841057800792,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,tpt,indirect,-0.06725088300289286,-0.17955617143228148,0.02397377149785614,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,tpt,total,-0.11636847610289983,-0.28176984879401407,0.04076957489348165,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,sanit,direct,-0.03303499849918515,-0.05252851421086427,-0.014015415928252523,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,sanit,indirect,-0.04523089750236822,-0.09353027850375249,-0.017483117482011826,econ_k4_manhattan,ind,SAR,full
+SAR | econ_k4_manhattan | ind,sanit,total,-0.07826589600155337,-0.14185926439479793,-0.032577836062620394,econ_k4_manhattan,ind,SAR,full
+SDM | econ_k4_manhattan | tw,manuf,direct,-0.004255654153853868,-0.030939495922057962,0.023438472005487834,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,manuf,indirect,0.007977419849652065,-0.052228218306099077,0.06786998265071058,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,manuf,total,0.0037217656957981974,-0.062011455265160206,0.06944996614135872,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,lgrdp,direct,-3.093142036090177,-6.385434890079512,0.2363214915078372,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,lgrdp,indirect,6.838613570371988,-6.079878893902291,20.46136066260416,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,lgrdp,total,3.745471534281811,-10.115284742412303,18.314196706653284,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,tpt,direct,-0.022104667417210986,-0.08087171881402855,0.03691401453447455,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,tpt,indirect,-0.09445545259046018,-0.22655658369081363,0.026414863412524223,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,tpt,total,-0.11656012000767116,-0.261555397499446,0.013487391175880386,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,sanit,direct,-0.03680698814380555,-0.05418275517091379,-0.01967029483759875,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,sanit,indirect,-0.04491184506339789,-0.09176393049371534,-0.0017263508090504243,econ_k4_manhattan,tw,SDM,full
+SDM | econ_k4_manhattan | tw,sanit,total,-0.08171883320720344,-0.13550538749443472,-0.03015731411282274,econ_k4_manhattan,tw,SDM,full
+SAR | econ_k4_manhattan | tw,manuf,direct,0.0006132392930922549,-0.02718309676936654,0.027790070891035454,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,manuf,indirect,0.0002349723642261504,-0.015461333090218986,0.014681399916820551,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,manuf,total,0.0008482116573184053,-0.04068567151015784,0.04070699299646475,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,lgrdp,direct,-3.3920242146948736,-6.824692854769522,0.06988908910809093,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,lgrdp,indirect,-1.2997078925262242,-4.472227263566978,0.09024367428064993,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,lgrdp,total,-4.691732107221098,-10.456796932654338,0.11330546229761748,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,tpt,direct,-0.046901608000326715,-0.10455314416634706,0.012061086794632084,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,tpt,indirect,-0.017971095202125247,-0.062091916843361974,0.005771757707088567,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,tpt,total,-0.06487270320245196,-0.15522031413110043,0.017360386602910786,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,sanit,direct,-0.03560659685857639,-0.05374364336081865,-0.018278107442763505,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,sanit,indirect,-0.01364323248714016,-0.03983264108180281,-0.001235687318381022,econ_k4_manhattan,tw,SAR,full
+SAR | econ_k4_manhattan | tw,sanit,total,-0.04924982934571655,-0.08641775230108512,-0.02501087059225042,econ_k4_manhattan,tw,SAR,full
+SDM | econ_k5_euclid | ind,manuf,direct,0.0042228544224726175,-0.02242524103719704,0.03031327404803003,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,manuf,indirect,0.03376376410156067,-0.026953033116610473,0.08906167959511926,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,manuf,total,0.03798661852403329,-0.02668440095117307,0.09528974079988925,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,lgrdp,direct,-3.0355047500657917,-6.087831598524247,0.023492481468138805,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,lgrdp,indirect,-6.603821672359221,-12.791387118933851,-1.3931990733490993,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,lgrdp,total,-9.639326422425013,-15.816238894669535,-4.623288138046207,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,tpt,direct,-0.04494364637879301,-0.11459727883864347,0.023558723657497702,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,tpt,indirect,-0.31138300014078885,-0.7183765866895748,-0.01820670310908774,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,tpt,total,-0.35632664651958185,-0.7970670520354577,-0.035114719856336164,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,sanit,direct,-0.028142397938976306,-0.04939071676926106,-0.004918650297255633,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,sanit,indirect,-0.0195842631693706,-0.14347056144108422,0.1248969592769514,econ_k5_euclid,ind,SDM,full
+SDM | econ_k5_euclid | ind,sanit,total,-0.047726661108346904,-0.18522269113565978,0.11132996932582029,econ_k5_euclid,ind,SDM,full
+SAR | econ_k5_euclid | ind,manuf,direct,0.01411836285871512,-0.005855817798115283,0.0336181182549555,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,manuf,indirect,0.02195673951905587,-0.010821551806489279,0.056126926926926855,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,manuf,total,0.03607510237777099,-0.01674878261358579,0.08601268085305383,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,lgrdp,direct,-2.683342944214327,-4.098713158901259,-1.163363473789151,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,lgrdp,indirect,-4.173108642695163,-6.512649254629845,-2.3756942107405608,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,lgrdp,total,-6.85645158690949,-9.81057138191388,-3.7618578117802337,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,tpt,direct,-0.04875361836543628,-0.11300948138045443,0.015863334754231736,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,tpt,indirect,-0.07582114936226847,-0.2187487558782732,0.02761679098698466,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,tpt,total,-0.12457476772770475,-0.3213976846388722,0.044617012539848906,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,sanit,direct,-0.03176681170600528,-0.050432449514068924,-0.013654617829402057,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,sanit,indirect,-0.0494034341629841,-0.10979003397430707,-0.018812543066717466,econ_k5_euclid,ind,SAR,full
+SAR | econ_k5_euclid | ind,sanit,total,-0.08117024586898938,-0.15407569214027125,-0.03466364677480215,econ_k5_euclid,ind,SAR,full
+SDM | econ_k5_euclid | tw,manuf,direct,-0.0003225728553226524,-0.027855053214912856,0.02822073139595634,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,manuf,indirect,-0.02110690994181168,-0.09993334412277705,0.055410382389573895,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,manuf,total,-0.021429482797134334,-0.10712792875826073,0.059918324136714496,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,lgrdp,direct,-4.159976777595284,-7.629167460909018,-0.7115890391512752,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,lgrdp,indirect,-10.511331900740892,-23.872285387076577,0.8593215405013561,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,lgrdp,total,-14.671308678336176,-29.220060230908263,-1.906872158943458,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,tpt,direct,-0.026116495218075665,-0.08743850510746026,0.03455725754320975,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,tpt,indirect,-0.13859996733599364,-0.3082280288814636,-0.0022028580668981834,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,tpt,total,-0.1647164625540693,-0.35509602033123894,-0.021370776552084435,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,sanit,direct,-0.035879287336786574,-0.053373538736567576,-0.017416829329572375,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,sanit,indirect,-0.03393493358614778,-0.09070932351818889,0.02454260959325984,econ_k5_euclid,tw,SDM,full
+SDM | econ_k5_euclid | tw,sanit,total,-0.06981422092293435,-0.1334782601131885,1.2866965545156542e-05,econ_k5_euclid,tw,SDM,full
+SAR | econ_k5_euclid | tw,manuf,direct,0.0004226941613827647,-0.027285197429405442,0.028235000186214918,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,manuf,indirect,0.00017647757265222162,-0.017210068285923016,0.01679151611361689,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,manuf,total,0.0005991717340349863,-0.042129976255319196,0.042675636021007775,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,lgrdp,direct,-3.194094838957904,-6.723679482493385,0.2971172023733011,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,lgrdp,indirect,-1.3335554533241867,-4.957923030872746,0.17961694781114276,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,lgrdp,total,-4.5276502922820905,-10.561091058033462,0.4353500370620545,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,tpt,direct,-0.04710238362376317,-0.10700020372124995,0.013490954824740409,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,tpt,indirect,-0.01966555275062861,-0.07743030029333964,0.006722079748320144,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,tpt,total,-0.06676793637439178,-0.1676187498150563,0.01886352876154615,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,sanit,direct,-0.03489707258915081,-0.052307176753994766,-0.01765774817942893,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,sanit,indirect,-0.014569755690627871,-0.04486884094832547,-0.0007270315581851429,econ_k5_euclid,tw,SAR,full
+SAR | econ_k5_euclid | tw,sanit,total,-0.049466828279778684,-0.08684573142436046,-0.024896064718589392,econ_k5_euclid,tw,SAR,full
+SDM | econ_k5_manhattan | ind,manuf,direct,0.0022433711347739594,-0.02546089222545464,0.0288424546183752,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,manuf,indirect,0.03004973945987532,-0.028795939676590068,0.08254107910837775,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,manuf,total,0.03229311059464928,-0.02671519943854413,0.08502414555440412,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,lgrdp,direct,-3.416834585685983,-6.590870433702799,-0.27987307972387826,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,lgrdp,indirect,-4.589546353152594,-10.146514664170034,0.7761764344207245,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,lgrdp,total,-8.006380938838577,-13.048226533797141,-3.4303113080164267,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,tpt,direct,-0.03492718950961599,-0.1029968242511804,0.03076426379486385,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,tpt,indirect,-0.26180643689699346,-0.5987308474417721,0.008597318094966453,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,tpt,total,-0.29673362640660944,-0.6650136364505318,0.0027529794629373265,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,sanit,direct,-0.03439658370968856,-0.05452886347597285,-0.01345982423718083,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,sanit,indirect,-0.06955405289878544,-0.18828137376888254,0.047291990838298444,econ_k5_manhattan,ind,SDM,full
+SDM | econ_k5_manhattan | ind,sanit,total,-0.103950636608474,-0.2341160886237021,0.025642827525901347,econ_k5_manhattan,ind,SDM,full
+SAR | econ_k5_manhattan | ind,manuf,direct,0.01514626286348511,-0.005270144069769001,0.03463818097716717,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,manuf,indirect,0.02223927947649043,-0.009586857084040955,0.05462654665704925,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,manuf,total,0.03738554233997554,-0.01538270577339695,0.08604181369723989,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,lgrdp,direct,-2.77011230266486,-4.216662554406808,-1.2862869103507553,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,lgrdp,indirect,-4.067359865300338,-6.248083759811431,-2.424490194012131,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,lgrdp,total,-6.837472167965197,-9.637866428938201,-3.95831824790267,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,tpt,direct,-0.04973685551071803,-0.11448898597290647,0.013936633429111032,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,tpt,indirect,-0.07302869625030187,-0.20275801528986515,0.020902378929179115,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,tpt,total,-0.1227655517610199,-0.3079106424022737,0.034901891854118655,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,sanit,direct,-0.03252281148927406,-0.05205540960006179,-0.01422380820217823,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,sanit,indirect,-0.04775329073516121,-0.10283428992441783,-0.0187988607174269,econ_k5_manhattan,ind,SAR,full
+SAR | econ_k5_manhattan | ind,sanit,total,-0.08027610222443526,-0.14947551155366837,-0.034682417398645735,econ_k5_manhattan,ind,SAR,full
+SDM | econ_k5_manhattan | tw,manuf,direct,-0.0014801395153030159,-0.028960270897863245,0.026273333953276738,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,manuf,indirect,0.004833154171219551,-0.06346755571921608,0.0694974191013176,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,manuf,total,0.0033530146559165347,-0.06863392461111475,0.07015062091691869,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,lgrdp,direct,-3.800830640424412,-7.203854382929981,-0.46418152076369545,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,lgrdp,indirect,-1.4170590522829252,-13.384023373919401,10.259306693740102,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,lgrdp,total,-5.217889692707337,-18.173029458957483,7.229621079208158,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,tpt,direct,-0.026417475084460212,-0.08679797859901565,0.03520971387344977,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,tpt,indirect,-0.11465236736235845,-0.2547874485732022,0.006811098403216773,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,tpt,total,-0.14106984244681867,-0.29568704947897123,-0.011130395337725347,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,sanit,direct,-0.03869167285257675,-0.05617047154955928,-0.021191820222504543,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,sanit,indirect,-0.045928287832294405,-0.09701964716388067,0.0013241590127886938,econ_k5_manhattan,tw,SDM,full
+SDM | econ_k5_manhattan | tw,sanit,total,-0.08461996068487115,-0.13851610572773182,-0.030335526992584766,econ_k5_manhattan,tw,SDM,full
+SAR | econ_k5_manhattan | tw,manuf,direct,0.0008538674884834521,-0.02768029916833244,0.028859413086176948,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,manuf,indirect,0.00022903665039245957,-0.01233847452389663,0.01309034448362866,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,manuf,total,0.0010829041388759116,-0.03765398062820869,0.03853792380791697,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,lgrdp,direct,-3.298311816760891,-6.8075957469753225,0.19709685851461814,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,lgrdp,indirect,-0.8847207566158808,-3.813853492793563,0.36090885538921974,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,lgrdp,total,-4.183032573376772,-9.480096008209642,0.2947576158072409,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,tpt,direct,-0.04959743517895451,-0.11129619660132435,0.01048571566446265,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,tpt,indirect,-0.01330373925071282,-0.058662554109572315,0.0068701600259688375,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,tpt,total,-0.06290117442966733,-0.15132509227171753,0.014137618117309849,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,sanit,direct,-0.03598106039189829,-0.05345331247713658,-0.01881767419812526,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,sanit,indirect,-0.009651358859400917,-0.03454555249249338,0.002704986670373669,econ_k5_manhattan,tw,SAR,full
+SAR | econ_k5_manhattan | tw,sanit,total,-0.045632419251299204,-0.07912639096039695,-0.02361565897605776,econ_k5_manhattan,tw,SAR,full
+SDM | econ_k6_euclid | ind,manuf,direct,0.002315434219895751,-0.024511305041098864,0.029534230459921432,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,manuf,indirect,0.02882645700950718,-0.03921770740422909,0.08856436438048672,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,manuf,total,0.031141891229402932,-0.03805411124906251,0.08829761276097735,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,lgrdp,direct,-2.2536665507704217,-5.573052147714732,0.873208716562779,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,lgrdp,indirect,-4.409526509671062,-10.512415804787507,1.713408911615922,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,lgrdp,total,-6.663193060441484,-12.838328752866092,-0.32003210337649307,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,tpt,direct,-0.027824523442464996,-0.09882536130853063,0.04135521558379681,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,tpt,indirect,-0.22556953843946304,-0.6560319345129133,0.12985910857444766,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,tpt,total,-0.25339406188192803,-0.7081124835074176,0.13855804511328731,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,sanit,direct,-0.036184321821013436,-0.05761642856976866,-0.01523332808204393,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,sanit,indirect,-0.08857989099343463,-0.24907198609706396,0.05447640983682485,econ_k6_euclid,ind,SDM,full
+SDM | econ_k6_euclid | ind,sanit,total,-0.12476421281444806,-0.29855137111098057,0.031809058479291205,econ_k6_euclid,ind,SDM,full
+SAR | econ_k6_euclid | ind,manuf,direct,0.012353507648237786,-0.007650679531010476,0.03110925705257667,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,manuf,indirect,0.020464959720525578,-0.015833827067964126,0.054588558135679276,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,manuf,total,0.032818467368763364,-0.023775263461389962,0.08231433263162559,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,lgrdp,direct,-2.2322242030799107,-3.7302298295827265,-0.6790662384833571,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,lgrdp,indirect,-3.6979277225549154,-5.70658687155768,-1.6257598051439788,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,lgrdp,total,-5.930151925634826,-8.728684778968502,-2.3670593491965923,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,tpt,direct,-0.042562029537621435,-0.10801942320036638,0.021341846034617303,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,tpt,indirect,-0.07050873686353315,-0.21507751133827196,0.03969118860063925,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,tpt,total,-0.11307076640115458,-0.3119555221798511,0.0608647082521742,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,sanit,direct,-0.033548109676649486,-0.052576049246841915,-0.015450374816525673,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,sanit,indirect,-0.05557617583458926,-0.12438376075692392,-0.022179759439327932,econ_k6_euclid,ind,SAR,full
+SAR | econ_k6_euclid | ind,sanit,total,-0.08912428551123874,-0.1697973037177709,-0.03864810576706988,econ_k6_euclid,ind,SAR,full
+SDM | econ_k6_euclid | tw,manuf,direct,0.003005000185293342,-0.024010076537409258,0.0303104178653612,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,manuf,indirect,-0.01777154185345204,-0.0942406020123928,0.058248768989420635,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,manuf,total,-0.014766541668158698,-0.09636546691632172,0.06111620333762857,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,lgrdp,direct,-3.5075547137555616,-6.942954767600151,-0.17605191297132566,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,lgrdp,indirect,-9.12157764925637,-20.333806830825672,0.2978321115605398,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,lgrdp,total,-12.629132363011932,-24.528900971420324,-2.2176436150673604,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,tpt,direct,-0.02324100436398821,-0.08528251338949648,0.036345219997209674,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,tpt,indirect,-0.10250217308561693,-0.25163997372637315,0.02959425382711674,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,tpt,total,-0.12574317744960514,-0.2867265729420031,0.016140891571182026,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,sanit,direct,-0.04042122450438411,-0.05763135269308777,-0.022933535181040892,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,sanit,indirect,-0.05315769372156261,-0.1122327426306495,-0.0018778738697761003,econ_k6_euclid,tw,SDM,full
+SDM | econ_k6_euclid | tw,sanit,total,-0.09357891822594672,-0.15698300495334652,-0.03538821214140075,econ_k6_euclid,tw,SDM,full
+SAR | econ_k6_euclid | tw,manuf,direct,0.0002537905195406285,-0.027686213923916164,0.028995212594781883,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,manuf,indirect,7.458651174032646e-05,-0.014680745215926985,0.01344941399404965,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,manuf,total,0.00032837703128095496,-0.03964766751671826,0.04011964864978319,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,lgrdp,direct,-3.156199429345882,-6.619071880396269,0.42582603759668275,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,lgrdp,indirect,-0.9275756486799449,-3.9798353761639915,0.4941570579512745,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,lgrdp,total,-4.083775078025827,-9.45606020826914,0.5665602197285389,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,tpt,direct,-0.04717145539069087,-0.1089114000371567,0.013807172876101798,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,tpt,indirect,-0.013863221989830143,-0.06080679962384881,0.009808765531848583,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,tpt,total,-0.06103467738052101,-0.15133343144676592,0.019010704949190087,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,sanit,direct,-0.03628164530181615,-0.054472139234036425,-0.018880683019300216,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,sanit,indirect,-0.010662815018309069,-0.04182500978133243,0.0035621580104841528,econ_k6_euclid,tw,SAR,full
+SAR | econ_k6_euclid | tw,sanit,total,-0.04694446032012522,-0.08669979835132036,-0.023717412566633813,econ_k6_euclid,tw,SAR,full
+SDM | econ_k6_manhattan | ind,manuf,direct,0.0025414508804769546,-0.025016838120342222,0.029654337824073854,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,manuf,indirect,0.02319887674780165,-0.04372042050927252,0.07962904984572144,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,manuf,total,0.025740327628278607,-0.04432702571902046,0.08288401218012378,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,lgrdp,direct,-2.9647949904981097,-6.228176080241785,0.19904125748108495,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,lgrdp,indirect,-3.8538494376585533,-9.864064063316397,2.4001400178507146,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,lgrdp,total,-6.818644428156663,-12.257993124976899,-0.810026245146485,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,tpt,direct,-0.0317579527598363,-0.1004698561158279,0.03544184474771684,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,tpt,indirect,-0.251185811731137,-0.6734949844815504,0.11065109410863673,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,tpt,total,-0.2829437644909733,-0.7356961392512211,0.11202695958845149,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,sanit,direct,-0.034817218832582764,-0.0555751341114444,-0.014372963258347214,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,sanit,indirect,-0.10079745460068021,-0.24936009507273102,0.035052547391158456,econ_k6_manhattan,ind,SDM,full
+SDM | econ_k6_manhattan | ind,sanit,total,-0.13561467343326297,-0.2959114528356689,0.010870669740035288,econ_k6_manhattan,ind,SDM,full
+SAR | econ_k6_manhattan | ind,manuf,direct,0.012875464218971532,-0.006389871603792561,0.032024220690900385,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,manuf,indirect,0.02214783432962042,-0.013787554914854335,0.06153487021904228,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,manuf,total,0.03502329854859195,-0.02108165311705145,0.09027001940192488,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,lgrdp,direct,-2.3236307163305425,-3.765584854182284,-0.824590242176805,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,lgrdp,indirect,-3.997012245405227,-6.2343635812295375,-1.9824216885414232,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,lgrdp,total,-6.32064296173577,-9.292289204733077,-2.9025670056163997,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,tpt,direct,-0.04516101359939612,-0.1051029628341052,0.016411595110047784,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,tpt,indirect,-0.07768408426652099,-0.22141588312851357,0.03058929109607052,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,tpt,total,-0.1228450978659171,-0.317259632479531,0.04625303068387963,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,sanit,direct,-0.03196663149324936,-0.051206989709496345,-0.013707769141128518,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,sanit,indirect,-0.05498766074354921,-0.12657664952483702,-0.021097604692191962,econ_k6_manhattan,ind,SAR,full
+SAR | econ_k6_manhattan | ind,sanit,total,-0.08695429223679857,-0.17087210979123543,-0.03573206338973367,econ_k6_manhattan,ind,SAR,full
+SDM | econ_k6_manhattan | tw,manuf,direct,0.002235413890227812,-0.024809343039336386,0.02905831404937735,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,manuf,indirect,0.004170316131047,-0.07380433007689943,0.07873330878125315,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,manuf,total,0.006405730021274812,-0.07478217025635837,0.08279295894039536,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,lgrdp,direct,-3.7934368340389604,-7.084009621604059,-0.3645425396645868,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,lgrdp,indirect,-4.115855527672261,-18.19657698096754,8.341887383947457,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,lgrdp,total,-7.909292361711222,-22.75555587257836,5.693998882197099,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,tpt,direct,-0.030173844550054167,-0.08782871580060783,0.028790377055298102,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,tpt,indirect,-0.10985334636420757,-0.2834859041538859,0.03721405381777731,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,tpt,total,-0.14002719091426175,-0.3235442847654927,0.02062047320855818,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,sanit,direct,-0.038142378741523236,-0.05460286129011157,-0.021290083444875523,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,sanit,indirect,-0.06312412748705386,-0.1237383475142346,-0.010939545875578075,econ_k6_manhattan,tw,SDM,full
+SDM | econ_k6_manhattan | tw,sanit,total,-0.1012665062285771,-0.16831184814500066,-0.04345561427462906,econ_k6_manhattan,tw,SDM,full
+SAR | econ_k6_manhattan | tw,manuf,direct,0.0005614988949468011,-0.027870531336858215,0.028587324664917403,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,manuf,indirect,0.00022121481033873325,-0.01813834141554095,0.016275299233764827,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,manuf,total,0.0007827137052855344,-0.042521141393675826,0.041369437751040905,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,lgrdp,direct,-3.2017461076305422,-6.690743298457233,0.20362403174285787,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,lgrdp,indirect,-1.2613981333291364,-5.361067395869816,0.2515637984449827,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,lgrdp,total,-4.463144240959679,-10.722633638224465,0.2894794830743487,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,tpt,direct,-0.04658337656832958,-0.10793580351217816,0.013650981094885654,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,tpt,indirect,-0.018352543353584237,-0.07870928129458189,0.008824000847296306,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,tpt,total,-0.06493591992191382,-0.1654197324216733,0.021826815354180334,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,sanit,direct,-0.035380181193055055,-0.053207633649955746,-0.01782910158973411,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,sanit,indirect,-0.013938798709680837,-0.04981487575814234,0.0011680439397116623,econ_k6_manhattan,tw,SAR,full
+SAR | econ_k6_manhattan | tw,sanit,total,-0.04931897990273589,-0.09266266904419776,-0.024922300023459024,econ_k6_manhattan,tw,SAR,full
+SDM | econ_noregressors_k4 | ind,manuf,direct,0.014064733219584574,-0.013097720203468192,0.041483592800794104,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,manuf,indirect,0.04933288824398314,0.0003114635377661573,0.09775042908134379,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,manuf,total,0.06339762146356771,0.01277354379661073,0.11337672620932428,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,lgrdp,direct,-3.5742879053703285,-6.589026883893301,-0.5164749026240418,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,lgrdp,indirect,-3.233014126565935,-8.172931572284938,1.5873088232783366,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,lgrdp,total,-6.807302031936263,-11.037648600897029,-2.531496538834607,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,tpt,direct,-0.05860599972856943,-0.13791993270435543,0.01982121523812247,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,tpt,indirect,0.07629851291096576,-0.22643525223903446,0.37139348535876815,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,tpt,total,0.01769251318239633,-0.346945524181218,0.36492148952909165,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,sanit,direct,-0.033226259088297634,-0.05435202527923,-0.012120390955790865,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,sanit,indirect,-0.016986441793159966,-0.09976681978726085,0.058924051793495004,econ_noregressors_k4,ind,SDM,full
+SDM | econ_noregressors_k4 | ind,sanit,total,-0.0502127008814576,-0.14500159739663687,0.03746488983954667,econ_noregressors_k4,ind,SDM,full
+SAR | econ_noregressors_k4 | ind,manuf,direct,0.019571736765116133,-0.0010162037178100235,0.040370679185416064,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,manuf,indirect,0.01716346527434801,-0.0011590111198513068,0.037337120265885176,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,manuf,total,0.03673520203946414,-0.002208906111672335,0.07438114973941545,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,lgrdp,direct,-4.099127916541119,-5.488862495377,-2.6339444622744543,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,lgrdp,indirect,-3.5947366600629067,-5.42013106215272,-2.285712880212041,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,lgrdp,total,-7.6938645766040255,-10.060394581676634,-5.508633051302823,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,tpt,direct,-0.0863765080173067,-0.15343774328396206,-0.017637556732840183,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,tpt,indirect,-0.07574801427520061,-0.1770339894199993,-0.014649177711672645,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,tpt,total,-0.16212452229250732,-0.3213254059293159,-0.03287244378330393,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,sanit,direct,-0.036843119484140784,-0.05654033701433164,-0.01726835261142012,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,sanit,indirect,-0.03230963145753062,-0.06618550380960642,-0.013276208977451338,econ_noregressors_k4,ind,SAR,full
+SAR | econ_noregressors_k4 | ind,sanit,total,-0.0691527509416714,-0.11814395735709794,-0.03267958691689696,econ_noregressors_k4,ind,SAR,full
+SDM | econ_noregressors_k4 | tw,manuf,direct,-0.0010356167007806662,-0.028112343258891864,0.027164113924147484,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,manuf,indirect,-0.011985781005059383,-0.06336091319217364,0.03835409808333745,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,manuf,total,-0.013021397705840048,-0.06775521131793132,0.038461188398528114,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,lgrdp,direct,-3.8751752217726145,-7.295454405265498,-0.48941181309135534,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,lgrdp,indirect,-4.99842677414318,-11.668999278188357,2.0566907937584626,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,lgrdp,total,-8.873601995915795,-16.702049949859052,-0.6021845502433212,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,tpt,direct,-0.04459811458288993,-0.10482938505385872,0.010820965277426651,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,tpt,indirect,0.10706148534014315,-0.019265439833331552,0.2338410192588583,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,tpt,total,0.062463370757253216,-0.08642343632523589,0.2090817843344604,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,sanit,direct,-0.03674793308200094,-0.05355081147245182,-0.019926957374343277,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,sanit,indirect,-0.034586130964090474,-0.06991450458670274,-0.0007759231494516598,econ_noregressors_k4,tw,SDM,full
+SDM | econ_noregressors_k4 | tw,sanit,total,-0.07133406404609141,-0.10990736192591048,-0.035791416264643335,econ_noregressors_k4,tw,SDM,full
+SAR | econ_noregressors_k4 | tw,manuf,direct,0.0007525687417195558,-0.026842286079198696,0.02870196426052294,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,manuf,indirect,3.611124971341999e-05,-0.004834925756995968,0.004663863834166495,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,manuf,total,0.0007886799914329758,-0.029643110266886194,0.030423943953916337,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,lgrdp,direct,-3.475341960801582,-6.927863854650523,-0.08540148709186753,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,lgrdp,indirect,-0.16676076805858164,-1.6267272400509423,0.7260203870062306,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,lgrdp,total,-3.6421027288601637,-7.710141614576911,-0.1009454389384384,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,tpt,direct,-0.05651823638938158,-0.11696321739615673,0.00392786618170206,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,tpt,indirect,-0.0027119703948315643,-0.029574595984752688,0.011078649326392473,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,tpt,total,-0.059230206784213146,-0.1349250612931531,0.0036329573510805145,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,sanit,direct,-0.03772427080852556,-0.05478794326611912,-0.020240777732105336,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,sanit,indirect,-0.00181016096989451,-0.01519492053410028,0.007656971518873022,econ_noregressors_k4,tw,SAR,full
+SAR | econ_noregressors_k4 | tw,sanit,total,-0.03953443177842007,-0.06254963348506386,-0.020776044802005345,econ_noregressors_k4,tw,SAR,full
+SDM | pre2019_k4 | ind,manuf,direct,0.009467688485602666,-0.018215222963525783,0.037066694532902615,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,manuf,indirect,0.044437839834435895,-0.00880332532408839,0.09394039210679082,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,manuf,total,0.05390552832003856,0.0010850140414035822,0.1034584341416597,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,lgrdp,direct,-4.788049201441198,-7.841965556910543,-1.5697300795307982,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,lgrdp,indirect,-5.64816683850198,-10.441794779305939,-1.0981657372064628,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,lgrdp,total,-10.436216039943178,-14.636290595021656,-6.547802198665431,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,tpt,direct,-0.07400608396601818,-0.14687621722704577,-0.004559417825364212,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,tpt,indirect,-0.2684577245258538,-0.5684148393305923,0.006618866863183963,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,tpt,total,-0.342463808491872,-0.6853467900341517,-0.029948468323209944,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,sanit,direct,-0.03370387077509689,-0.05637682126689906,-0.01182485055113037,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,sanit,indirect,0.02993928205460404,-0.06247968602438419,0.12242403903776906,pre2019_k4,ind,SDM,full
+SDM | pre2019_k4 | ind,sanit,total,-0.003764588720492854,-0.11025633990882294,0.10222283263775335,pre2019_k4,ind,SDM,full
+SAR | pre2019_k4 | ind,manuf,direct,0.020173901577743108,-9.222220951281915e-05,0.04025346902458876,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,manuf,indirect,0.019362607228205975,-0.00012116193759940011,0.041904831416370525,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,manuf,total,0.03953650880594908,-0.00019743647030553486,0.07781828415017952,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,lgrdp,direct,-3.5285239085856754,-4.995857507134343,-2.049846435626233,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,lgrdp,indirect,-3.3866241626088995,-5.034910933879883,-2.128480706618859,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,lgrdp,total,-6.915148071194575,-9.155069984349977,-4.618699773062989,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,tpt,direct,-0.06662092427204803,-0.13178147847925975,-0.0027355367464777266,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,tpt,indirect,-0.06394176083831325,-0.16089127020904426,-0.0031171873578376935,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,tpt,total,-0.1305626851103613,-0.28387611476576236,-0.005921806504172344,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,sanit,direct,-0.03975260278430899,-0.05990947062861344,-0.020619629915733084,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,sanit,indirect,-0.038153950094643604,-0.0790825018740121,-0.016401170299274882,pre2019_k4,ind,SAR,full
+SAR | pre2019_k4 | ind,sanit,total,-0.0779065528789526,-0.13399330082542327,-0.03902891064157927,pre2019_k4,ind,SAR,full
+SDM | pre2019_k4 | tw,manuf,direct,0.0017623715978798238,-0.026444356808320135,0.030382452334169353,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,manuf,indirect,-0.009719062691308065,-0.08017371113894205,0.05742458275480486,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,manuf,total,-0.007956691093428241,-0.0847269116836214,0.06446478858435098,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,lgrdp,direct,-3.204650302557627,-6.874285105482812,0.2761732491114746,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,lgrdp,indirect,1.6249007534746696,-6.261159024880354,9.899596857409366,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,lgrdp,total,-1.5797495490829574,-11.12350196992524,8.049429881622759,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,tpt,direct,-0.057471159164872235,-0.11664959487785422,0.001939181764947983,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,tpt,indirect,-0.11097075431010729,-0.23922632774767943,0.00806593761170669,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,tpt,total,-0.16844191347497953,-0.30998406810849816,-0.039194988253428105,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,sanit,direct,-0.036626188300155973,-0.05371570217074157,-0.019036270292392472,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,sanit,indirect,0.0175158716362275,-0.019732962765283357,0.05486574505680125,pre2019_k4,tw,SDM,full
+SDM | pre2019_k4 | tw,sanit,total,-0.019110316663928473,-0.06258471482464482,0.025904767207164444,pre2019_k4,tw,SDM,full
+SAR | pre2019_k4 | tw,manuf,direct,0.0013443428729267755,-0.027149999850863207,0.030268413339438242,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,manuf,indirect,-0.0001364599246986458,-0.005413482943132776,0.004725636324156234,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,manuf,total,0.0012078829482281297,-0.02517612956152941,0.027849287107176348,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,lgrdp,direct,-3.462298554555366,-6.890835598060423,0.039764167690827655,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,lgrdp,indirect,0.35144679943908175,-0.8991458061862958,1.3896643616055928,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,lgrdp,total,-3.1108517551162844,-6.648443667136156,0.035466364519451773,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,tpt,direct,-0.056342755353853816,-0.11511776972885603,0.0022978642971248847,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,tpt,indirect,0.005719172026525034,-0.013980983519880879,0.024521389961689097,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,tpt,total,-0.05062358332732878,-0.10940936896923545,0.0022383552743341613,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,sanit,direct,-0.0377492337871832,-0.05461133255297949,-0.02098843745783132,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,sanit,indirect,0.003831803406534051,-0.009296239673788665,0.012742525876982217,pre2019_k4,tw,SAR,full
+SAR | pre2019_k4 | tw,sanit,total,-0.03391743038064915,-0.0563274072151979,-0.01774634423608503,pre2019_k4,tw,SAR,full
+SDM | pre2019_labour_k4 | ind,manuf,direct,0.012958699632168957,-0.014746935105782765,0.04115055384186775,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,manuf,indirect,0.04821945495472951,-0.0017179383933377482,0.09809156532954481,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,manuf,total,0.061178154586898466,0.01219886920250071,0.1109812081281218,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,lgrdp,direct,-4.5293594533859975,-7.611143378468358,-1.4548711005354251,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,lgrdp,indirect,-3.198358381965437,-7.865286614372976,1.440306385388147,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,lgrdp,total,-7.727717835351434,-11.548602489455398,-3.7946948334502624,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,tpt,direct,-0.06234675228667261,-0.13320167432636945,0.010101463897266046,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,tpt,indirect,-0.03139775490528855,-0.30135389115327044,0.2310325885104167,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,tpt,total,-0.09374450719196116,-0.4073875797632949,0.20743453032112807,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,sanit,direct,-0.039694090074709795,-0.06282236253385184,-0.016282836151546354,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,sanit,indirect,0.002263156274985821,-0.09462999872405511,0.10118284092501306,pre2019_labour_k4,ind,SDM,full
+SDM | pre2019_labour_k4 | ind,sanit,total,-0.037430933799723974,-0.1507964116161078,0.07701042520579071,pre2019_labour_k4,ind,SDM,full
+SAR | pre2019_labour_k4 | ind,manuf,direct,0.02338925554382295,0.0031043326749186223,0.04375801501544369,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,manuf,indirect,0.019116481182771476,0.00270826815055818,0.04116831493242051,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,manuf,total,0.042505736726594426,0.005904571905990412,0.08072442535773225,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,lgrdp,direct,-3.8559808248325242,-5.333837956111073,-2.2938403664335434,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,lgrdp,indirect,-3.151566100123525,-4.659527846519425,-2.005470398798033,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,lgrdp,total,-7.007546924956049,-9.118170411780422,-4.771257947307469,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,tpt,direct,-0.07647115807087394,-0.1434533653626545,-0.009763089287359621,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,tpt,indirect,-0.06250132465941942,-0.1512072898158114,-0.007439680674356217,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,tpt,total,-0.13897248273029336,-0.28226265621090724,-0.017445576411783462,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,sanit,direct,-0.042498161613776154,-0.06304552482652273,-0.022609096010446784,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,sanit,indirect,-0.03473455173765418,-0.0725221212669303,-0.014852185178865449,pre2019_labour_k4,ind,SAR,full
+SAR | pre2019_labour_k4 | ind,sanit,total,-0.07723271335143034,-0.1313172805683787,-0.039159939064272835,pre2019_labour_k4,ind,SAR,full
+SDM | pre2019_labour_k4 | tw,manuf,direct,0.0012749857508810858,-0.02704606528701926,0.02883497849437713,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,manuf,indirect,-0.014589220986239297,-0.06458379240522329,0.034783752607455275,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,manuf,total,-0.013314235235358211,-0.06622576222702077,0.038728074013854655,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,lgrdp,direct,-2.763123218661419,-6.197388962177865,0.6737857239888791,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,lgrdp,indirect,1.827159074069282,-3.9619111971409344,7.735643313738803,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,lgrdp,total,-0.935964144592137,-7.770958211885666,6.030719132153133,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,tpt,direct,-0.05040480916394353,-0.10581879695358862,0.008776920718581339,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,tpt,indirect,-0.010329341009385352,-0.11363150058433863,0.09445037279795898,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,tpt,total,-0.06073415017332888,-0.17206453815924105,0.05037125539280937,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,sanit,direct,-0.03430062632048808,-0.05198906935539582,-0.01710755563697974,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,sanit,indirect,0.023379301323172633,-0.013318596496557564,0.06141421738372387,pre2019_labour_k4,tw,SDM,full
+SDM | pre2019_labour_k4 | tw,sanit,total,-0.01092132499731545,-0.05344943154623558,0.032026434175864565,pre2019_labour_k4,tw,SDM,full
+SAR | pre2019_labour_k4 | tw,manuf,direct,0.0008375495034718722,-0.026497443997802905,0.028696923857052744,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,manuf,indirect,-0.00021655148711715016,-0.008282483991245806,0.007587824380522634,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,manuf,total,0.000620998016354722,-0.0203138143074476,0.021914622221703848,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,lgrdp,direct,-3.184530040205164,-6.4802986880729945,0.28085865005575383,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,lgrdp,indirect,0.8233718880102305,-0.1381946954911959,2.024552670911526,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,lgrdp,total,-2.3611581521949336,-5.228801441951063,0.21128245791727138,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,tpt,direct,-0.053090134342332805,-0.11098495592372128,0.004810171341708578,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,tpt,indirect,0.013726648389646566,-0.002422436592390546,0.034817127016829263,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,tpt,total,-0.03936348595268624,-0.08786204621403662,0.0035752831133923158,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,sanit,direct,-0.035574444676302434,-0.052776338506539934,-0.018411608596149435,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,sanit,indirect,0.00919790277002868,0.00038999387714915067,0.017097265624245652,pre2019_labour_k4,tw,SAR,full
+SAR | pre2019_labour_k4 | tw,sanit,total,-0.026376541906273754,-0.04377255498116601,-0.013009518664125967,pre2019_labour_k4,tw,SAR,full

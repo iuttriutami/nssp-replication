@@ -1,0 +1,107 @@
+spec,W,FE,model,sample,logLik,k,AIC
+SDM | Queen contiguity | ind | 2020-2024,queen,ind,SDM,full,-0.24632952104337802,10,20.492659042086757
+SAR | Queen contiguity | ind | 2020-2024,queen,ind,SAR,full,-8.636950109599528,6,29.273900219199056
+SLX | Queen contiguity | ind | 2020-2024,queen,ind,SLX,full,-12.704732598021804,9,43.40946519604361
+SEM | Queen contiguity | ind | 2020-2024,queen,ind,SEM,full,-13.01403804796658,6,38.02807609593316
+SDEM | Queen contiguity | ind | 2020-2024,queen,ind,SDEM,full,-1.0515923390074775,10,22.103184678014955
+SDM | Queen contiguity | ind | 2022-2024,queen,ind,SDM,2022-2024,31.773530232558542,10,-43.547060465117085
+SDM+HDI | Queen contiguity | ind,queen,ind,SDM,full+HDI,0.3500976513586638,12,23.299804697282674
+SDM | Queen contiguity | tw | 2020-2024,queen,tw,SDM,full,22.424561006831635,10,-24.84912201366327
+SAR | Queen contiguity | tw | 2020-2024,queen,tw,SAR,full,6.847156671807283,6,-1.6943133436145654
+SLX | Queen contiguity | tw | 2020-2024,queen,tw,SLX,full,21.783473075138417,9,-25.566946150276834
+SEM | Queen contiguity | tw | 2020-2024,queen,tw,SEM,full,6.330538240498538,6,-0.6610764809970764
+SDEM | Queen contiguity | tw | 2020-2024,queen,tw,SDEM,full,22.592779953184433,10,-25.185559906368866
+SDM | Queen contiguity | tw | 2022-2024,queen,tw,SDM,2022-2024,30.114107642598437,10,-40.228215285196875
+SDM+HDI | Queen contiguity | tw,queen,tw,SDM,full+HDI,23.414020422657618,12,-22.828040845315236
+SDM | 4-nearest neighbours (great circle) | ind | 2020-2024,knn4,ind,SDM,full,0.1308061857868701,10,19.73838762842626
+SAR | 4-nearest neighbours (great circle) | ind | 2020-2024,knn4,ind,SAR,full,-4.986919589449629,6,21.973839178899258
+SLX | 4-nearest neighbours (great circle) | ind | 2020-2024,knn4,ind,SLX,full,-16.726931155880457,9,51.453862311760915
+SEM | 4-nearest neighbours (great circle) | ind | 2020-2024,knn4,ind,SEM,full,-7.177417560313888,6,26.354835120627776
+SDEM | 4-nearest neighbours (great circle) | ind | 2020-2024,knn4,ind,SDEM,full,-0.5280009648847583,10,21.056001929769515
+SDM | 4-nearest neighbours (great circle) | ind | 2022-2024,knn4,ind,SDM,2022-2024,29.322322654704358,10,-38.644645309408716
+SDM+HDI | 4-nearest neighbours (great circle) | ind,knn4,ind,SDM,full+HDI,0.7561994432535464,12,22.487601113492907
+SDM | 4-nearest neighbours (great circle) | tw | 2020-2024,knn4,tw,SDM,full,19.16117491918925,10,-18.3223498383785
+SAR | 4-nearest neighbours (great circle) | tw | 2020-2024,knn4,tw,SAR,full,8.985413202574463,6,-5.970826405148927
+SLX | 4-nearest neighbours (great circle) | tw | 2020-2024,knn4,tw,SLX,full,19.130053895245585,9,-20.26010779049117
+SEM | 4-nearest neighbours (great circle) | tw | 2020-2024,knn4,tw,SEM,full,7.664081006786947,6,-3.3281620135738947
+SDEM | 4-nearest neighbours (great circle) | tw | 2020-2024,knn4,tw,SDEM,full,19.134218339403695,10,-18.26843667880739
+SDM | 4-nearest neighbours (great circle) | tw | 2022-2024,knn4,tw,SDM,2022-2024,29.513370333897385,10,-39.02674066779477
+SDM+HDI | 4-nearest neighbours (great circle) | tw,knn4,tw,SDM,full+HDI,19.862633462977534,12,-15.725266925955069
+SDM | Economic k=4 (2020 profile) | ind | 2020-2024,econ,ind,SDM,full,-3.5483505344181605,10,27.09670106883632
+SAR | Economic k=4 (2020 profile) | ind | 2020-2024,econ,ind,SAR,full,-4.902134426380803,6,21.804268852761606
+SLX | Economic k=4 (2020 profile) | ind | 2020-2024,econ,ind,SLX,full,-20.34008812309058,9,58.68017624618116
+SEM | Economic k=4 (2020 profile) | ind | 2020-2024,econ,ind,SEM,full,-9.195850761313695,6,30.39170152262739
+SDEM | Economic k=4 (2020 profile) | ind | 2020-2024,econ,ind,SDEM,full,-4.806161726893449,10,29.6123234537869
+SDM | Economic k=4 (2020 profile) | ind | 2022-2024,econ,ind,SDM,2022-2024,26.154698104431763,10,-32.309396208863525
+SDM+HDI | Economic k=4 (2020 profile) | ind,econ,ind,SDM,full+HDI,-3.0428123067498767,12,30.085624613499753
+SDM | Economic k=4 (2020 profile) | tw | 2020-2024,econ,tw,SDM,full,10.575891767230802,10,-1.1517835344616039
+SAR | Economic k=4 (2020 profile) | tw | 2020-2024,econ,tw,SAR,full,7.816442676513228,6,-3.632885353026456
+SLX | Economic k=4 (2020 profile) | tw | 2020-2024,econ,tw,SLX,full,10.380656139426087,9,-2.7613122788521736
+SEM | Economic k=4 (2020 profile) | tw | 2020-2024,econ,tw,SEM,full,6.834322937123518,6,-1.6686458742470354
+SDEM | Economic k=4 (2020 profile) | tw | 2020-2024,econ,tw,SDEM,full,10.558898149755144,10,-1.1177962995102888
+SDM | Economic k=4 (2020 profile) | tw | 2022-2024,econ,tw,SDM,2022-2024,25.125076474073868,10,-30.250152948147736
+SDM+HDI | Economic k=4 (2020 profile) | tw,econ,tw,SDM,full+HDI,11.242627184188567,12,1.5147456316228656
+SDM | Inverse distance (non-truncated) | ind | 2020-2024,idw_full,ind,SDM,full,7.83295396546473,10,4.33409206907054
+SAR | Inverse distance (non-truncated) | ind | 2020-2024,idw_full,ind,SAR,full,-0.8860212707890796,6,13.772042541578159
+SLX | Inverse distance (non-truncated) | ind | 2020-2024,idw_full,ind,SLX,full,-18.237364465659553,9,54.474728931319106
+SEM | Inverse distance (non-truncated) | ind | 2020-2024,idw_full,ind,SEM,full,-3.585064992533496,6,19.170129985066993
+SDEM | Inverse distance (non-truncated) | ind | 2020-2024,idw_full,ind,SDEM,full,12.596011826459865,10,-5.19202365291973
+SDM | Inverse distance (non-truncated) | tw | 2020-2024,idw_full,tw,SDM,full,22.229068051641036,10,-24.458136103282072
+SAR | Inverse distance (non-truncated) | tw | 2020-2024,idw_full,tw,SAR,full,6.709305436895492,6,-1.4186108737909837
+SLX | Inverse distance (non-truncated) | tw | 2020-2024,idw_full,tw,SLX,full,21.266123664020572,9,-24.532247328041144
+SEM | Inverse distance (non-truncated) | tw | 2020-2024,idw_full,tw,SEM,full,6.336431135457235,6,-0.6728622709144698
+SDEM | Inverse distance (non-truncated) | tw | 2020-2024,idw_full,tw,SDEM,full,21.396542698751748,10,-22.793085397503496
+"SDM | Inverse distance, cut-off 69 km | ind | 2020-2024",idw69,ind,SDM,full,-0.5588402779784514,10,21.117680555956902
+"SAR | Inverse distance, cut-off 69 km | ind | 2020-2024",idw69,ind,SAR,full,-6.641960527846926,6,25.283921055693853
+"SLX | Inverse distance, cut-off 69 km | ind | 2020-2024",idw69,ind,SLX,full,-17.258366736003,9,52.516733472006
+"SEM | Inverse distance, cut-off 69 km | ind | 2020-2024",idw69,ind,SEM,full,-8.115277981927026,6,28.23055596385405
+"SDEM | Inverse distance, cut-off 69 km | ind | 2020-2024",idw69,ind,SDEM,full,1.5323418948953398,10,16.935316210209322
+"SDM | Inverse distance, cut-off 69 km | tw | 2020-2024",idw69,tw,SDM,full,20.88471508861951,10,-21.769430177239023
+"SAR | Inverse distance, cut-off 69 km | tw | 2020-2024",idw69,tw,SAR,full,7.0888989881653215,6,-2.177797976330643
+"SLX | Inverse distance, cut-off 69 km | tw | 2020-2024",idw69,tw,SLX,full,20.233250742043246,9,-22.466501484086493
+"SEM | Inverse distance, cut-off 69 km | tw | 2020-2024",idw69,tw,SEM,full,6.290966805692876,6,-0.5819336113857521
+"SDEM | Inverse distance, cut-off 69 km | tw | 2020-2024",idw69,tw,SDEM,full,20.54084758316121,10,-21.08169516632242
+SDM | econ_k3_euclid | ind,econ_k3_euclid,ind,SDM,full,-5.768202061616195,10,31.53640412323239
+SAR | econ_k3_euclid | ind,econ_k3_euclid,ind,SAR,full,-7.958690805241376,6,27.91738161048275
+SDM | econ_k3_euclid | tw,econ_k3_euclid,tw,SDM,full,12.23661128944281,10,-4.473222578885618
+SAR | econ_k3_euclid | tw,econ_k3_euclid,tw,SAR,full,7.514087147989491,6,-3.0281742959789817
+SDM | econ_k3_manhattan | ind,econ_k3_manhattan,ind,SDM,full,-4.162110014224638,10,28.324220028449275
+SAR | econ_k3_manhattan | ind,econ_k3_manhattan,ind,SAR,full,-7.127090689489276,6,26.25418137897855
+SDM | econ_k3_manhattan | tw,econ_k3_manhattan,tw,SDM,full,15.247857238047107,10,-10.495714476094214
+SAR | econ_k3_manhattan | tw,econ_k3_manhattan,tw,SAR,full,7.527228529438652,6,-3.054457058877304
+SDM | econ_k4_euclid | ind,econ_k4_euclid,ind,SDM,full,-3.5483505344181507,10,27.096701068836303
+SAR | econ_k4_euclid | ind,econ_k4_euclid,ind,SAR,full,-4.902134426380782,6,21.804268852761563
+SDM | econ_k4_euclid | tw,econ_k4_euclid,tw,SDM,full,10.575891767230802,10,-1.1517835344616039
+SAR | econ_k4_euclid | tw,econ_k4_euclid,tw,SAR,full,7.816442676513226,6,-3.6328853530264524
+SDM | econ_k4_manhattan | ind,econ_k4_manhattan,ind,SDM,full,0.2734335045066505,10,19.4531329909867
+SAR | econ_k4_manhattan | ind,econ_k4_manhattan,ind,SAR,full,-2.3553666979389947,6,16.710733395877988
+SDM | econ_k4_manhattan | tw,econ_k4_manhattan,tw,SDM,full,13.55103268114205,10,-7.102065362284101
+SAR | econ_k4_manhattan | tw,econ_k4_manhattan,tw,SAR,full,8.573772254806013,6,-5.147544509612025
+SDM | econ_k5_euclid | ind,econ_k5_euclid,ind,SDM,full,0.3427138357368724,10,19.314572328526253
+SAR | econ_k5_euclid | ind,econ_k5_euclid,ind,SAR,full,-1.5952610680682198,6,15.19052213613644
+SDM | econ_k5_euclid | tw,econ_k5_euclid,tw,SDM,full,12.22261196587834,10,-4.445223931756679
+SAR | econ_k5_euclid | tw,econ_k5_euclid,tw,SAR,full,8.47471479378602,6,-4.949429587572041
+SDM | econ_k5_manhattan | ind,econ_k5_manhattan,ind,SDM,full,-1.3973654954397179,10,22.794730990879437
+SAR | econ_k5_manhattan | ind,econ_k5_manhattan,ind,SAR,full,-3.787814619515773,6,19.575629239031546
+SDM | econ_k5_manhattan | tw,econ_k5_manhattan,tw,SDM,full,11.316916336077824,10,-2.6338326721556484
+SAR | econ_k5_manhattan | tw,econ_k5_manhattan,tw,SAR,full,7.262375883133356,6,-2.5247517662667125
+SDM | econ_k6_euclid | ind,econ_k6_euclid,ind,SDM,full,-0.7616460745406455,10,21.523292149081293
+SAR | econ_k6_euclid | ind,econ_k6_euclid,ind,SAR,full,-2.3748946261065167,6,16.749789252213034
+SDM | econ_k6_euclid | tw,econ_k6_euclid,tw,SDM,full,11.862655578571369,10,-3.7253111571427375
+SAR | econ_k6_euclid | tw,econ_k6_euclid,tw,SAR,full,7.152026970607884,6,-2.304053941215768
+SDM | econ_k6_manhattan | ind,econ_k6_manhattan,ind,SDM,full,0.7803974136785623,10,18.439205172642875
+SAR | econ_k6_manhattan | ind,econ_k6_manhattan,ind,SAR,full,-1.2866640172938473,6,14.573328034587695
+SDM | econ_k6_manhattan | tw,econ_k6_manhattan,tw,SDM,full,11.799686848720457,10,-3.599373697440914
+SAR | econ_k6_manhattan | tw,econ_k6_manhattan,tw,SAR,full,7.7812306977449275,6,-3.562461395489855
+SDM | econ_noregressors_k4 | ind,econ_noregressors_k4,ind,SDM,full,-10.638837253171506,10,41.27767450634301
+SAR | econ_noregressors_k4 | ind,econ_noregressors_k4,ind,SAR,full,-12.052660466740988,6,36.10532093348198
+SDM | econ_noregressors_k4 | tw,econ_noregressors_k4,tw,SDM,full,10.84647454790878,10,-1.6929490958175606
+SAR | econ_noregressors_k4 | tw,econ_noregressors_k4,tw,SAR,full,6.274380621222191,6,-0.5487612424443817
+SDM | pre2019_k4 | ind,pre2019_k4,ind,SDM,full,-7.763890112651287,10,35.52778022530258
+SAR | pre2019_k4 | ind,pre2019_k4,ind,SAR,full,-10.57648316499033,6,33.15296632998066
+SDM | pre2019_k4 | tw,pre2019_k4,tw,SDM,full,8.928436224795352,10,2.1431275504092966
+SAR | pre2019_k4 | tw,pre2019_k4,tw,SAR,full,6.472115581455144,6,-0.9442311629102882
+SDM | pre2019_labour_k4 | ind,pre2019_labour_k4,ind,SDM,full,-12.68115791833679,10,45.36231583667358
+SAR | pre2019_labour_k4 | ind,pre2019_labour_k4,ind,SAR,full,-13.633942408548666,6,39.26788481709733
+SDM | pre2019_labour_k4 | tw,pre2019_labour_k4,tw,SDM,full,8.953019607033665,10,2.093960785932669
+SAR | pre2019_labour_k4 | tw,pre2019_labour_k4,tw,SAR,full,8.250839402099878,6,-4.501678804199756

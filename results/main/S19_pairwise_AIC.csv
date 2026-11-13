@@ -1,0 +1,21 @@
+FE,W_a,W_b,dAIC_b_minus_a
+ind,4-nearest neighbours (great circle),Queen contiguity,0.7542714136604971
+ind,Economic k=4 (2020 profile),Queen contiguity,-6.604042026749564
+ind,Economic k=4 (2020 profile),4-nearest neighbours (great circle),-7.358313440410061
+ind,Economic k=4 (2020 profile),Inverse distance (non-truncated),-22.76260899976578
+ind,Economic k=4 (2020 profile),"Inverse distance, cut-off 69 km",-5.979020512879419
+ind,Inverse distance (non-truncated),Queen contiguity,16.158566973016217
+ind,Inverse distance (non-truncated),4-nearest neighbours (great circle),15.40429555935572
+ind,"Inverse distance, cut-off 69 km",Queen contiguity,-0.6250215138701449
+ind,"Inverse distance, cut-off 69 km",4-nearest neighbours (great circle),-1.379292927530642
+ind,"Inverse distance, cut-off 69 km",Inverse distance (non-truncated),-16.783588486886362
+tw,4-nearest neighbours (great circle),Queen contiguity,-6.526772175284769
+tw,Economic k=4 (2020 profile),Queen contiguity,-23.697338479201665
+tw,Economic k=4 (2020 profile),4-nearest neighbours (great circle),-17.170566303916896
+tw,Economic k=4 (2020 profile),Inverse distance (non-truncated),-23.30635256882047
+tw,Economic k=4 (2020 profile),"Inverse distance, cut-off 69 km",-20.61764664277742
+tw,Inverse distance (non-truncated),Queen contiguity,-0.3909859103811968
+tw,Inverse distance (non-truncated),4-nearest neighbours (great circle),6.135786264903572
+tw,"Inverse distance, cut-off 69 km",Queen contiguity,-3.079691836424246
+tw,"Inverse distance, cut-off 69 km",4-nearest neighbours (great circle),3.4470803388605233
+tw,"Inverse distance, cut-off 69 km",Inverse distance (non-truncated),-2.688705926043049

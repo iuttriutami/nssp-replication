@@ -1,0 +1,25 @@
+W,FE,test,stat,p
+Queen contiguity,ind,LM_lag,42.759887292417176,6.188828428236505e-11
+Queen contiguity,ind,LM_error,26.99113508898645,2.0439070687048002e-07
+Queen contiguity,ind,robust_LM_lag,17.163636553967457,3.429385913419181e-05
+Queen contiguity,ind,robust_LM_error,1.3948843505367376,0.23758197848197068
+Queen contiguity,tw,LM_lag,0.3574530407547016,0.5499241652742681
+Queen contiguity,tw,LM_error,0.5757437725571117,0.4479854788242822
+Queen contiguity,tw,robust_LM_lag,20.663739932753895,5.474292822488366e-06
+Queen contiguity,tw,robust_LM_error,20.88203066455629,4.8845535934220955e-06
+4-nearest neighbours (great circle),ind,LM_lag,52.129089504108634,5.196932289877885e-13
+4-nearest neighbours (great circle),ind,LM_error,38.63961195721275,5.097383152221268e-10
+4-nearest neighbours (great circle),ind,robust_LM_lag,13.497490740480467,0.00023888267665285492
+4-nearest neighbours (great circle),ind,robust_LM_error,0.008013193584583155,0.9286714863427359
+4-nearest neighbours (great circle),tw,LM_lag,3.3161451237760144,0.06860251110222651
+4-nearest neighbours (great circle),tw,LM_error,0.6948856960003243,0.4045075292294825
+4-nearest neighbours (great circle),tw,robust_LM_lag,14.752247444373804,0.00012260130153981467
+4-nearest neighbours (great circle),tw,robust_LM_error,12.130988016598112,0.000495908395693382
+Economic k=4 (2020 profile),ind,LM_lag,52.0698863119211,5.35600471089722e-13
+Economic k=4 (2020 profile),ind,LM_error,37.737057218686644,8.095203954129842e-10
+Economic k=4 (2020 profile),ind,robust_LM_lag,14.38099678239739,0.00014930145710115886
+Economic k=4 (2020 profile),ind,robust_LM_error,0.04816768916293005,0.8262828673760386
+Economic k=4 (2020 profile),tw,LM_lag,1.3636980485787646,0.2428976043093481
+Economic k=4 (2020 profile),tw,LM_error,0.17353130070633715,0.6769923103308624
+Economic k=4 (2020 profile),tw,robust_LM_lag,7.3743646005139,0.006616016285763243
+Economic k=4 (2020 profile),tw,robust_LM_error,6.184197852641479,0.012889612021176328

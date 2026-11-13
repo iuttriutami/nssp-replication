@@ -1,0 +1,25 @@
+spec,variable,effect,estimate,lwr95,upr95,W,FE,model,sample
+SDM | Queen contiguity | ind | 2020-2024,manuf,direct,0.01862721325433475,-0.005757164223161682,0.04348681504315113,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,manuf,indirect,0.030866768933307434,-0.012170226222271534,0.06931690898261948,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,manuf,total,0.049493982187642185,0.007879426750962747,0.0871286752720039,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,direct,-6.010548703096051,-8.925434525998845,-3.0631288775107124,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,indirect,-1.960102745476597,-5.867701514125908,1.9395104375606405,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,lgrdp,total,-7.970651448572648,-11.033222189025075,-4.912493179287967,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,direct,-0.026545862790158973,-0.09171800749044538,0.04086350624157254,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,indirect,-0.28186626562372824,-0.5094971783547354,-0.08075163412083214,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,tpt,total,-0.3084121284138872,-0.5755462482005498,-0.0784420642121519,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,direct,-0.03477980960562547,-0.05338754647687783,-0.015747784948536604,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,indirect,-0.07935980361886508,-0.1373276372822548,-0.028769734511137603,queen,ind,SDM,full
+SDM | Queen contiguity | ind | 2020-2024,sanit,total,-0.11413961322449055,-0.18178285339312278,-0.05479802438430115,queen,ind,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,manuf,direct,0.004891937466079981,-0.02055895683361523,0.030126225518138924,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,manuf,indirect,-0.015014755880506296,-0.07380563162119924,0.03994954432801599,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,manuf,total,-0.010122818414426315,-0.07693759232924591,0.05139727298374859,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,direct,-5.12725305352365,-8.269473311535801,-1.9754432972959526,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,indirect,1.8613780026380873,-3.8159180661090697,7.583720305434682,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,lgrdp,total,-3.2658750508855627,-9.728025432506094,3.514078023046465,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,direct,-0.020041983135302907,-0.07579363061789963,0.034387949969927334,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,indirect,-0.11506136525120823,-0.22365889354137547,-0.01017457059377361,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,tpt,total,-0.13510334838651114,-0.24464452520664945,-0.0280960955828141,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,direct,-0.032507950399280304,-0.04806731544184745,-0.01705450915256186,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,indirect,-0.059741320560167156,-0.08686116856377926,-0.034322542030471456,queen,tw,SDM,full
+SDM | Queen contiguity | tw | 2020-2024,sanit,total,-0.09224927095944746,-0.12331709620394679,-0.06397321696062314,queen,tw,SDM,full

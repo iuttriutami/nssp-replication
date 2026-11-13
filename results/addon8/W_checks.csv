@@ -1,0 +1,4 @@
+check,value
+econ k=4 2020 rebuilt vs frozen (edge overlap),1.0
+KNN-4 rebuilt from centroids vs frozen (edge overlap),1.0
+cut-off = 2 x largest NN distance (km; naskah 69),68.77246362525872

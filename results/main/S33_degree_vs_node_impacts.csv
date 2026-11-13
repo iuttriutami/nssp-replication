@@ -1,0 +1,5 @@
+FE,quantity,spearman_with_degree,p
+ind,emission (col sum - diag),-0.9754362742637394,2.9366944804769087e-23
+ind,reception (row sum - diag),0.5557453532243801,0.0005283989012543132
+tw,emission (col sum - diag),-0.9168019373806549,1.0451661116213366e-14
+tw,reception (row sum - diag),-0.49341079119818854,0.002596158253900432

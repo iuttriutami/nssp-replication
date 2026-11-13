@@ -1,0 +1,47 @@
+item,new,manuscript_v8
+elpd_loo core ind Queen contiguity,-29.747877170079732,-31.27188070374964
+elpd_loo core ind 4-nearest neighbours (great circle),-24.776307006360035,-25.68260987644729
+elpd_loo core ind Economic k=4 (2020 profile),-30.90197855495449,-32.44346848721146
+elpd_loo core tw Queen contiguity,-8.1481963507621,-7.706942208021573
+elpd_loo core tw 4-nearest neighbours (great circle),-12.253690379882427,-10.818185591151575
+elpd_loo core tw Economic k=4 (2020 profile),-22.960582704142787,-23.42327241082234
+elpd_loo extended ind Queen contiguity,-29.747877170079732,-31.27188070374964
+elpd_loo extended ind 4-nearest neighbours (great circle),-24.776307006360035,-25.68260987644729
+elpd_loo extended ind Economic k=4 (2020 profile),-30.90197855495449,-32.44346848721146
+elpd_loo extended ind Inverse distance (non-truncated),-14.10955817608803,-14.24333367804357
+"elpd_loo extended ind Inverse distance, cut-off 69 km",-27.065973872146866,-27.70762774492204
+elpd_loo extended tw Queen contiguity,-8.1481963507621,-7.706942208021573
+elpd_loo extended tw 4-nearest neighbours (great circle),-12.253690379882427,-10.818185591151575
+elpd_loo extended tw Economic k=4 (2020 profile),-22.960582704142787,-23.42327241082234
+elpd_loo extended tw Inverse distance (non-truncated),-8.215453515500773,-5.964629887136049
+"elpd_loo extended tw Inverse distance, cut-off 69 km",-11.634262444434729,-10.849254117547222
+decision ratio core ind loo,0.8674992355590234,
+decision ratio core ind waic,0.8646356220037348,
+decision ratio core tw loo,0.6975015539373962,
+decision ratio core tw waic,0.7807519113991531,
+decision ratio extended ind loo,2.015607335057142,
+decision ratio extended ind waic,2.047075521530765,
+decision ratio extended tw loo,0.01788566608397072,
+decision ratio extended tw waic,0.06977484454290277,
+stacking core ind Queen contiguity,0.2753586675955404,
+stacking core ind 4-nearest neighbours (great circle),0.3628326508061013,
+stacking core ind Economic k=4 (2020 profile),0.36180868159835844,
+stacking core tw Queen contiguity,0.7418804864392256,
+stacking core tw 4-nearest neighbours (great circle),0.09069271840831855,
+stacking core tw Economic k=4 (2020 profile),0.16742679515245587,
+stacking extended ind Queen contiguity,2.07888781531522e-08,
+stacking extended ind 4-nearest neighbours (great circle),0.018858962119358218,
+stacking extended ind Economic k=4 (2020 profile),0.12336166099583523,
+stacking extended ind Inverse distance (non-truncated),0.857779347905448,
+"stacking extended ind Inverse distance, cut-off 69 km",8.19048109814963e-09,
+stacking extended tw Queen contiguity,0.5313601681827693,
+stacking extended tw 4-nearest neighbours (great circle),0.021933979568678836,
+stacking extended tw Economic k=4 (2020 profile),0.15017904499161822,
+stacking extended tw Inverse distance (non-truncated),0.29652532469419196,
+"stacking extended tw Inverse distance, cut-off 69 km",1.4825627417431546e-06,
+Table 7 tau queen ind,0.5375381796579786,0.537
+Table 7 tau queen tw,0.5791257407132016,0.572
+Table 8 SR_indirect ind,-0.11129362071594509,-0.113
+Table 8 LR_indirect ind,-0.1123579654146795,-0.127
+Table 8 SR_indirect tw,-0.08461828906967016,-0.085
+Table 8 LR_indirect tw,-0.14001418364792675,-0.169

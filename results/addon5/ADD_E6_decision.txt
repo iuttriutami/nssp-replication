@@ -1,0 +1,12 @@
+[core | ind | PSIS-LOO] best = 4-nearest neighbours (great circle); min |diff/SE| vs rivals = 0.91 -> not separated by > 2 SE -> average over W
+[core | ind | WAIC] best = 4-nearest neighbours (great circle); min |diff/SE| vs rivals = 0.89 -> not separated by > 2 SE -> average over W
+[core | tw | PSIS-LOO] best = Queen contiguity; min |diff/SE| vs rivals = 0.53 -> not separated by > 2 SE -> average over W
+[core | tw | WAIC] best = Queen contiguity; min |diff/SE| vs rivals = 0.60 -> not separated by > 2 SE -> average over W
+[extended | ind | PSIS-LOO] best = Inverse distance (non-truncated); min |diff/SE| vs rivals = 2.03 -> SELECT
+[extended | ind | WAIC] best = Inverse distance (non-truncated); min |diff/SE| vs rivals = 2.03 -> SELECT
+[extended | tw | PSIS-LOO] best = Inverse distance (non-truncated); min |diff/SE| vs rivals = 0.47 -> not separated by > 2 SE -> average over W
+[extended | tw | WAIC] best = Inverse distance (non-truncated); min |diff/SE| vs rivals = 0.56 -> not separated by > 2 SE -> average over W
+
+Kriteria utama: PSIS-LOO dengan exact refit untuk k-hat > 0.7 (Vehtari et al. 2017, 2024); WAIC sebagai cek.
+Unit prediktif: y_it | y_-i,t, kovariat, FE (densitas LOO-kondisional; Buerkner et al. 2021).
+BMA untuk merata-rata impacts SDM memakai P(W | SDM); P(W) marginal atas SDM/SLX dilaporkan terpisah.

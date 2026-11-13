@@ -1,0 +1,6 @@
+W,min_real_eig,rho_lower_bound_theory,rho_search_interval,n_complex_eig_tol1e6,n_complex_under_perturbation,n_eig_equal_minus_0_25,note
+Queen contiguity,-0.6021790829714877,-1.6606355622075777,"(-0.9899, 0.999)",0,0-0,0,"interval admisibel rho = (1/min real eig, 1); estimator memakai (max(-0.99, .), 0.999)"
+4-nearest neighbours (great circle),-0.5983729384980256,-1.6711985714295459,"(-0.9899, 0.999)",14,14-16,5,"interval admisibel rho = (1/min real eig, 1); estimator memakai (max(-0.99, .), 0.999)"
+Economic k=4 (2020 profile),-0.48641386811216947,-2.055862436408567,"(-0.9899, 0.999)",6,8-12,12,"interval admisibel rho = (1/min real eig, 1); estimator memakai (max(-0.99, .), 0.999)"
+Inverse distance (non-truncated),-0.3428917855285626,-2.9163719931596344,"(-0.9899, 0.999)",0,0-0,0,"interval admisibel rho = (1/min real eig, 1); estimator memakai (max(-0.99, .), 0.999)"
+"Inverse distance, cut-off 69 km",-0.4736432961988581,-2.111293473433122,"(-0.9899, 0.999)",0,0-0,0,"interval admisibel rho = (1/min real eig, 1); estimator memakai (max(-0.99, .), 0.999)"
