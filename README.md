@@ -32,8 +32,7 @@ Run times on a 4-core Kaggle CPU: addon 6 ≈ 15 min, addon 7 ≈ 20 min.
 ## Notes
 
 * `results/addon6`: rows for the single-step correction contain point estimates only. Their interval columns were produced by an earlier version of the notebook that centred the basic bootstrap interval incorrectly and are left blank; the notebook in this package contains the corrected code. Iterated-correction results are unaffected. Single-step intervals and coverage in the paper come from `results/addon7` (Table S34).
-* `results/addon5`: PSIS-LOO with exact refits, WAIC, model weights and model-averaged impacts (Tables 3, 6, S11–S13).
-
+* `results/addon5`: first PSIS-LOO and model-weight results, superseded by `results/precise` (two chains of 8,000 draws), which is the source of Tables 3, 6 and S11–S13 in the paper.
 ## Software
 
 Python 3.13, NumPy 2.1.3, SciPy 1.16.3, pandas 2.3.3, joblib (see `requirements.txt`).
